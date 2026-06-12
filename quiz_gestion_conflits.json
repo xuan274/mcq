@@ -1,0 +1,1605 @@
+{
+  "title": "Conflict Management MCQ Quiz",
+  "subtitle": "Multiple-choice questions based on the course support on conflict management, leadership, prevention, digital communication, difficult personalities, and negotiation techniques.",
+  "totalQuestions": 94,
+  "questions": [
+    {
+      "question": "According to the course, what is a conflict?",
+      "options": [
+        "A temporary disagreement caused only by poor organization",
+        "An opposition of feelings, opinions, or interests",
+        "A negotiation that has failed completely",
+        "A leadership problem created by hierarchy"
+      ],
+      "answerIndex": 1,
+      "explanation": "A conflict is defined as an opposition of feelings, opinions, or interests. Organization, failed negotiation, or hierarchy can contribute to conflict, but they are narrower explanations.",
+      "category": "Conflict foundations",
+      "level": "Easy",
+      "tags": [
+        "definition",
+        "conflict"
+      ]
+    },
+    {
+      "question": "Which set best matches common workplace conflict types shown in the course?",
+      "options": [
+        "Technical, legal, financial, and creative conflicts",
+        "Interpersonal, role, communication, interest, and organizational conflicts",
+        "Direct, participative, delegative, coach, and visionary conflicts",
+        "Analyst, assertive, accommodator, and passive conflicts"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course presents interpersonal, role, communication, interest, and organizational conflicts. The other options mix leadership styles, negotiator profiles, or unrelated categories.",
+      "category": "Conflict foundations",
+      "level": "Easy",
+      "tags": [
+        "types",
+        "workplace"
+      ]
+    },
+    {
+      "question": "In the Thomas-Kilmann model, which behavior corresponds to 'I win, the other loses'?",
+      "options": [
+        "Accommodation",
+        "Avoidance",
+        "Competition",
+        "Collaboration"
+      ],
+      "answerIndex": 2,
+      "explanation": "Competition is described as 'I win, the other loses'. Accommodation reverses that relation, avoidance produces no winner, and collaboration aims for mutual gain.",
+      "category": "Thomas-Kilmann model",
+      "level": "Easy",
+      "tags": [
+        "competition",
+        "assertiveness"
+      ]
+    },
+    {
+      "question": "In the Thomas-Kilmann model, which behavior corresponds to 'I lose, the other wins'?",
+      "options": [
+        "Accommodation",
+        "Compromise",
+        "Competition",
+        "Collaboration"
+      ],
+      "answerIndex": 0,
+      "explanation": "Accommodation means yielding to the other party. Compromise involves mutual concessions, competition favors one side, and collaboration seeks a win-win outcome.",
+      "category": "Thomas-Kilmann model",
+      "level": "Easy",
+      "tags": [
+        "accommodation",
+        "conflict style"
+      ]
+    },
+    {
+      "question": "Which Thomas-Kilmann behavior is associated with nobody winning?",
+      "options": [
+        "Compromise",
+        "Avoidance",
+        "Collaboration",
+        "Accommodation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Avoidance prevents the issue from being treated and is presented as nobody winning. Compromise, collaboration, and accommodation each produce a different distribution of gains and losses.",
+      "category": "Thomas-Kilmann model",
+      "level": "Easy",
+      "tags": [
+        "avoidance",
+        "conflict style"
+      ]
+    },
+    {
+      "question": "What distinguishes compromise from collaboration in the course model?",
+      "options": [
+        "Compromise means both lose a little; collaboration means both win",
+        "Compromise means no one speaks; collaboration means one person decides",
+        "Compromise means one side loses; collaboration means the other side loses",
+        "Compromise is low cooperation; collaboration is low assertiveness"
+      ],
+      "answerIndex": 0,
+      "explanation": "Compromise is presented as both sides losing a little, while collaboration is mutual gain. The other options confuse compromise with avoidance, competition, or incorrect axes.",
+      "category": "Thomas-Kilmann model",
+      "level": "Medium",
+      "tags": [
+        "compromise",
+        "collaboration"
+      ]
+    },
+    {
+      "question": "Which two dimensions structure the Thomas-Kilmann behavior map in the slides?",
+      "options": [
+        "Empathy and authority",
+        "Cooperation and assertiveness",
+        "Urgency and risk",
+        "Status and autonomy"
+      ],
+      "answerIndex": 1,
+      "explanation": "The map uses cooperation and assertiveness as axes. Status and autonomy belong to SCARF, while urgency, risk, empathy, and authority are not the axes shown.",
+      "category": "Thomas-Kilmann model",
+      "level": "Easy",
+      "tags": [
+        "axes",
+        "cooperation"
+      ]
+    },
+    {
+      "question": "A student imposes a solution and ignores objections because the deadline is immediate. Which Thomas-Kilmann style is most visible?",
+      "options": [
+        "Accommodation",
+        "Avoidance",
+        "Competition",
+        "Compromise"
+      ],
+      "answerIndex": 2,
+      "explanation": "The behavior prioritizes one's own position and pushes against others, which reflects competition. Accommodation yields, avoidance withdraws, and compromise seeks partial concessions.",
+      "category": "Thomas-Kilmann model",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "competition"
+      ]
+    },
+    {
+      "question": "A group agrees to keep half of one proposal and half of another, although neither side is fully satisfied. Which style is shown?",
+      "options": [
+        "Compromise",
+        "Collaboration",
+        "Avoidance",
+        "Competition"
+      ],
+      "answerIndex": 0,
+      "explanation": "This is compromise because both parties make concessions and lose a little. Collaboration would search for a solution satisfying both more fully.",
+      "category": "Thomas-Kilmann model",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "compromise"
+      ]
+    },
+    {
+      "question": "Which answer best describes the course objective?",
+      "options": [
+        "Learning to win every disagreement through persuasion",
+        "Understanding when, why, and how conflicts happen, then developing prevention and resolution skills",
+        "Avoiding all forms of disagreement in teamwork",
+        "Replacing negotiation with leadership authority"
+      ],
+      "answerIndex": 1,
+      "explanation": "The stated objective is to understand conflict and develop skills to resolve and prevent it. The course does not aim at domination, total avoidance, or replacing negotiation.",
+      "category": "Conflict foundations",
+      "level": "Easy",
+      "tags": [
+        "course objective",
+        "prevention"
+      ]
+    },
+    {
+      "question": "In the SCARF model used in the course, what does Status mainly concern?",
+      "options": [
+        "Need for public recognition, valued expertise, responsibilities, and clear progression",
+        "Need to know exactly which emojis are acceptable",
+        "Need to remove all hierarchy from a team",
+        "Need to always make decisions alone"
+      ],
+      "answerIndex": 0,
+      "explanation": "Status is positively affected through recognition, responsibility, valued expertise, and clear evolution. Emojis relate to digital communication, and the other choices are too absolute.",
+      "category": "SCARF model",
+      "level": "Easy",
+      "tags": [
+        "status",
+        "recognition"
+      ]
+    },
+    {
+      "question": "Which action best strengthens Certainty in the SCARF model?",
+      "options": [
+        "Changing objectives frequently to create flexibility",
+        "Using clear communication, defined processes, explicit goals, and regular feedback",
+        "Keeping deadlines vague until the end",
+        "Avoiding written decisions to preserve spontaneity"
+      ],
+      "answerIndex": 1,
+      "explanation": "Certainty is increased by clarity, defined processes, explicit goals, and regular feedback. Vague deadlines and constant changes reduce certainty.",
+      "category": "SCARF model",
+      "level": "Easy",
+      "tags": [
+        "certainty",
+        "clarity"
+      ]
+    },
+    {
+      "question": "Which action best supports Autonomy in the SCARF model?",
+      "options": [
+        "Checking every task every five minutes",
+        "Giving choice of methods, time management, decision space, and responsibility zones",
+        "Removing all personal responsibility",
+        "Making all decisions in secret"
+      ],
+      "answerIndex": 1,
+      "explanation": "Autonomy grows when people have control over methods, time, decisions, and responsibilities. Micromanagement and secret decisions reduce autonomy.",
+      "category": "SCARF model",
+      "level": "Easy",
+      "tags": [
+        "autonomy",
+        "control"
+      ]
+    },
+    {
+      "question": "Which practice best supports Relations in the SCARF model?",
+      "options": [
+        "Creating informal communication, shared projects, and team culture",
+        "Making salary decisions without explanation",
+        "Correcting people publicly",
+        "Avoiding all group rituals"
+      ],
+      "answerIndex": 0,
+      "explanation": "Relations are strengthened by connection, common projects, informal communication, and team culture. Public humiliation, opaque decisions, and avoidance weaken relationships.",
+      "category": "SCARF model",
+      "level": "Easy",
+      "tags": [
+        "relations",
+        "team culture"
+      ]
+    },
+    {
+      "question": "Which practice best supports Justice or Fairness in the SCARF model?",
+      "options": [
+        "Different rules for each person without explanation",
+        "Transparent rules, equal treatment, justified decisions, and listening to everyone",
+        "Favoring the most confident member",
+        "Avoiding explanations to save time"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fairness is reinforced through transparent rules, equal treatment, justified decisions, and listening. Favoritism and opacity create perceived injustice.",
+      "category": "SCARF model",
+      "level": "Easy",
+      "tags": [
+        "fairness",
+        "justice"
+      ]
+    },
+    {
+      "question": "In the 'Last Minute Project' scene, Alex says the work arrived at 23:00 and was partly wrong after weeks of silence. Which SCARF needs are most likely threatened?",
+      "options": [
+        "Only Relations, because the problem is purely friendly",
+        "Certainty, Fairness, and Status",
+        "Only Autonomy, because Alex chose to redo everything",
+        "Only Status, because the deadline does not matter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Late, unreliable work threatens certainty, fairness, and possibly status or responsibility recognition. Relations and autonomy may also be involved, but the core issue is not purely friendly or only individual control.",
+      "category": "SCARF model",
+      "level": "Hard",
+      "tags": [
+        "scenario",
+        "diagnosis"
+      ]
+    },
+    {
+      "question": "In the stage placement scene, one student obtains a position through family connections while another prepared for three interviews. Which SCARF dimension is most central?",
+      "options": [
+        "Fairness",
+        "Autonomy",
+        "Certainty",
+        "Method"
+      ],
+      "answerIndex": 0,
+      "explanation": "The strongest trigger is fairness because the opportunity appears unequal and influenced by personal connections. Certainty and relations may be affected, but fairness is central.",
+      "category": "SCARF model",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "fairness"
+      ]
+    },
+    {
+      "question": "In the oral presentation scene, a student is corrected publicly during the presentation. Which SCARF element is directly threatened?",
+      "options": [
+        "Status",
+        "Only Autonomy",
+        "Only Certainty",
+        "No SCARF element"
+      ],
+      "answerIndex": 0,
+      "explanation": "Public correction can threaten status by undermining face and credibility. Autonomy and certainty might be secondary, but status is the direct issue.",
+      "category": "SCARF model",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "status"
+      ]
+    },
+    {
+      "question": "Which is NOT a recommended positive lever for Status in the course?",
+      "options": [
+        "Public recognition",
+        "Valued expertise",
+        "Public reprimand",
+        "Clear progression"
+      ],
+      "answerIndex": 2,
+      "explanation": "Public reprimand harms status, while recognition, expertise valuation, and clear progression strengthen it.",
+      "category": "SCARF model",
+      "level": "Medium",
+      "tags": [
+        "not",
+        "status"
+      ]
+    },
+    {
+      "question": "What is the main purpose of using SCARF in conflict management?",
+      "options": [
+        "To classify people permanently into personality types",
+        "To diagnose social needs affected in a conflict",
+        "To decide who wins the disagreement",
+        "To replace communication with written rules"
+      ],
+      "answerIndex": 1,
+      "explanation": "SCARF helps identify which social needs are touched in a conflict. It is not a permanent personality label, a win mechanism, or a substitute for communication.",
+      "category": "SCARF model",
+      "level": "Hard",
+      "tags": [
+        "diagnosis",
+        "model"
+      ]
+    },
+    {
+      "question": "Why can digital communication intensify conflict according to the course?",
+      "options": [
+        "It always contains too many details",
+        "It loses non-verbal cues and makes tone or delays easy to misinterpret",
+        "It prevents written traces",
+        "It automatically creates fair decisions"
+      ],
+      "answerIndex": 1,
+      "explanation": "Digital messages lose non-verbal cues and can make tone, delays, and emojis ambiguous. Written traces exist, but they do not automatically prevent conflict.",
+      "category": "Digital conflict management",
+      "level": "Easy",
+      "tags": [
+        "digital communication",
+        "tone"
+      ]
+    },
+    {
+      "question": "Which situation is best suited to chat according to the channel guidance?",
+      "options": [
+        "Negative feedback",
+        "A sensitive emotional discussion",
+        "A quick confirmation",
+        "A major decision with conflict risk"
+      ],
+      "answerIndex": 2,
+      "explanation": "Chat is recommended for quick questions, confirmations, and simple updates. Negative feedback, sensitive discussions, and important decisions are better handled by richer channels such as video.",
+      "category": "Digital conflict management",
+      "level": "Easy",
+      "tags": [
+        "channel",
+        "chat"
+      ]
+    },
+    {
+      "question": "Which situation is best suited to video call according to the channel guidance?",
+      "options": [
+        "A routine update with no issue",
+        "A simple yes or no confirmation",
+        "A conflict or sensitive decision to resolve",
+        "A short emoji reaction"
+      ],
+      "answerIndex": 2,
+      "explanation": "Video is suited to potential conflicts, sensitive discussions, and important decisions. Simple or routine messages can remain in chat.",
+      "category": "Digital conflict management",
+      "level": "Easy",
+      "tags": [
+        "channel",
+        "video"
+      ]
+    },
+    {
+      "question": "Which rule appears in the WhatsApp and Discord survival guide?",
+      "options": [
+        "Make all important decisions after 22:00",
+        "Use @everyone for every message",
+        "Avoid ghosting on important messages",
+        "Keep conflicts spread across all channels"
+      ],
+      "answerIndex": 2,
+      "explanation": "The guide warns against ghosting on important messages. It also says no important decisions after 22:00, use @everyone sparingly, and keep conflict in a dedicated channel.",
+      "category": "Digital conflict management",
+      "level": "Easy",
+      "tags": [
+        "rules",
+        "messaging"
+      ]
+    },
+    {
+      "question": "Which signal is listed as a warning sign in digital communication?",
+      "options": [
+        "Short weekly stand-ups",
+        "Multiplication of subgroups",
+        "Clear deadlines",
+        "Shared written decisions"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course lists passive-aggressive messages, multiplication of subgroups, sudden silence, and unread message avalanches as warning signs. Clear deadlines and stand-ups are preventive practices.",
+      "category": "Digital conflict management",
+      "level": "Medium",
+      "tags": [
+        "warning signs",
+        "groups"
+      ]
+    },
+    {
+      "question": "Which structure is recommended for an anti-conflict message?",
+      "options": [
+        "Context, objective, expected action, precise deadline",
+        "Emotion, blame, deadline, reminder",
+        "Capital letters, urgency, copied recipients, sanctions",
+        "Humor, ambiguity, silence, reaction"
+      ],
+      "answerIndex": 0,
+      "explanation": "The anti-conflict structure is clear context, explicit objective, expected action, and precise deadline. The other options include elements specifically discouraged or unclear.",
+      "category": "Digital conflict management",
+      "level": "Easy",
+      "tags": [
+        "message structure",
+        "clarity"
+      ]
+    },
+    {
+      "question": "Which expression is listed among elements to avoid in digital messages?",
+      "options": [
+        "For clarification",
+        "Thank you for confirming",
+        "For reminder",
+        "Here is the context"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course warns against passive-aggressive formulas such as 'Pour rappel...' ('For reminder...'). Clarification and context can be useful when neutral.",
+      "category": "Digital conflict management",
+      "level": "Medium",
+      "tags": [
+        "phrasing",
+        "avoid"
+      ]
+    },
+    {
+      "question": "Which checklist question should be asked before sending a digital message?",
+      "options": [
+        "Will this message make the sender look superior?",
+        "Is this the right moment and the right channel?",
+        "Can the issue be hidden until later?",
+        "Has enough pressure been added?"
+      ],
+      "answerIndex": 1,
+      "explanation": "The checklist asks whether it is the right moment, right channel, adapted tone, clear message, and appropriate emojis. Pressure and superiority are not goals.",
+      "category": "Digital conflict management",
+      "level": "Easy",
+      "tags": [
+        "checklist",
+        "channel"
+      ]
+    },
+    {
+      "question": "Which sentence best illustrates de-escalation through temporizing?",
+      "options": [
+        "This is obviously wrong and must be fixed now",
+        "I understand the point of view; a video discussion tomorrow could align expectations",
+        "Everyone has been copied so the issue is visible",
+        "No response will be given until the conflict disappears"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course proposes acknowledging the viewpoint and moving to a calmer video discussion. The other choices escalate, shame, or avoid the issue.",
+      "category": "Digital conflict management",
+      "level": "Medium",
+      "tags": [
+        "de-escalation",
+        "temporizing"
+      ]
+    },
+    {
+      "question": "In the FBI feedback method, what does the sequence represent?",
+      "options": [
+        "Facts, Belief, Intention",
+        "Feeling, Behavior, Impact",
+        "Fairness, Balance, Involvement",
+        "Feedback, Boundary, Instruction"
+      ],
+      "answerIndex": 1,
+      "explanation": "The method in the course is Feeling, Behavior, Impact. The other sequences sound plausible but are not the method presented.",
+      "category": "Feedback and difficult conversations",
+      "level": "Easy",
+      "tags": [
+        "FBI",
+        "feedback"
+      ]
+    },
+    {
+      "question": "Which example best follows the FBI feedback logic?",
+      "options": [
+        "This is unacceptable because lazy people ruin teams",
+        "I feel worried when meetings start late because the team loses focus and explanations must be repeated",
+        "Stop being late or the project is finished",
+        "Everyone agrees that the behavior is bad"
+      ],
+      "answerIndex": 1,
+      "explanation": "The FBI method names feeling, behavior, and impact without global judgment. The other options judge, threaten, or generalize.",
+      "category": "Feedback and difficult conversations",
+      "level": "Medium",
+      "tags": [
+        "FBI",
+        "scenario"
+      ]
+    },
+    {
+      "question": "Which behavior describes the Dominator personality in the course?",
+      "options": [
+        "Complains constantly and rejects responsibility",
+        "Wants to control everything, speaks loudly, and interrupts",
+        "Changes versions and creates toxic alliances",
+        "Says yes but does not act"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Dominator wants control, speaks loudly, interrupts, and does not listen. The other descriptions correspond to victim, manipulator, or passive-aggressive profiles.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "dominator",
+        "profile"
+      ]
+    },
+    {
+      "question": "Which strategy is recommended for handling a Dominator?",
+      "options": [
+        "Stay calm and factual, use data, and set clear rules",
+        "Let the person decide everything",
+        "Avoid all written traces",
+        "Use sarcasm to regain control"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course recommends calm, facts, data, and clear rules. Giving total control, avoiding documentation, or using sarcasm can worsen the conflict.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "dominator",
+        "strategy"
+      ]
+    },
+    {
+      "question": "Which behavior describes the Victim personality in the course?",
+      "options": [
+        "Documents everything and involves witnesses",
+        "Complains constantly, rejects responsibility, and resists change",
+        "Cuts everyone off during meetings",
+        "Uses partial information to manipulate"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Victim profile complains, rejects responsibility, and resists change. The other options describe strategies or different difficult personalities.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "victim",
+        "profile"
+      ]
+    },
+    {
+      "question": "Which strategy is recommended for handling a Victim profile?",
+      "options": [
+        "Recentering on solutions, responsabilizing, and setting precise objectives",
+        "Agreeing that nothing can be done",
+        "Letting the complaint become the whole agenda",
+        "Responding with public blame"
+      ],
+      "answerIndex": 0,
+      "explanation": "The recommended response is solution focus, responsibility, and precise objectives. The other options reinforce helplessness or escalate.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "victim",
+        "strategy"
+      ]
+    },
+    {
+      "question": "Which behavior describes the Manipulator profile?",
+      "options": [
+        "Uses sarcasm and does the opposite of what was agreed",
+        "Changes versions, plays on emotions, and creates toxic alliances",
+        "Avoids every message because of stress",
+        "Shares all information transparently"
+      ],
+      "answerIndex": 1,
+      "explanation": "The Manipulator changes versions, plays on emotions, and creates toxic alliances. Sarcasm and silent sabotage fit passive-aggressive behavior.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "manipulator",
+        "profile"
+      ]
+    },
+    {
+      "question": "Which strategy is recommended for handling a Manipulator?",
+      "options": [
+        "Document everything, stay factual, and involve witnesses",
+        "Negotiate only through emotions",
+        "Give private exceptions without trace",
+        "Ignore inconsistencies to preserve harmony"
+      ],
+      "answerIndex": 0,
+      "explanation": "Documentation, facts, and witnesses reduce manipulation. Emotional bargaining, hidden exceptions, and ignoring inconsistencies increase risk.",
+      "category": "Difficult personalities",
+      "level": "Medium",
+      "tags": [
+        "manipulator",
+        "strategy"
+      ]
+    },
+    {
+      "question": "Which behavior describes the Passive-Aggressive profile?",
+      "options": [
+        "Says yes but does no, uses sarcasm, and subtly sabotages",
+        "Speaks loudly and cuts off others",
+        "Fact-checks everything with spreadsheets",
+        "Builds consensus through consultation"
+      ],
+      "answerIndex": 0,
+      "explanation": "The passive-aggressive profile agrees verbally but does not follow through, uses sarcasm, and sabotages indirectly. The other options describe other profiles or leadership styles.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "passive-aggressive",
+        "profile"
+      ]
+    },
+    {
+      "question": "Which strategy is recommended for handling a Passive-Aggressive profile?",
+      "options": [
+        "Confront without aggression, ask for clear commitments, and follow actions closely",
+        "Respond with stronger sarcasm",
+        "Avoid naming commitments",
+        "Let ambiguity remain to protect harmony"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course recommends non-aggressive confrontation, clear commitments, and close follow-up. Sarcasm and ambiguity fuel passive aggression.",
+      "category": "Difficult personalities",
+      "level": "Medium",
+      "tags": [
+        "passive-aggressive",
+        "strategy"
+      ]
+    },
+    {
+      "question": "Which is one of the golden rules for difficult personalities?",
+      "options": [
+        "Take every remark personally",
+        "Document interactions",
+        "Avoid involving a third party under all circumstances",
+        "Keep boundaries flexible and implicit"
+      ],
+      "answerIndex": 1,
+      "explanation": "The golden rules include not taking things personally, documenting interactions, staying calm, setting clear limits, and involving a third party if needed.",
+      "category": "Difficult personalities",
+      "level": "Easy",
+      "tags": [
+        "golden rules",
+        "documentation"
+      ]
+    },
+    {
+      "question": "What is a directive leader best at according to the course quiz result?",
+      "options": [
+        "Creating long consultations for every decision",
+        "Giving clear instructions and making decisions, especially in emergencies",
+        "Letting everyone find their own methods without structure",
+        "Transforming all errors into coaching conversations"
+      ],
+      "answerIndex": 1,
+      "explanation": "Directive leadership is structured, clear, and effective in emergencies. Long consultation, autonomy-first delegation, and coaching are other styles.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "directive",
+        "style"
+      ]
+    },
+    {
+      "question": "What is the main risk of directive leadership?",
+      "options": [
+        "Micromanagement",
+        "Too much silence",
+        "Lack of any decision",
+        "Too much emotional labeling"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course warns that directive leaders can micromanage. The other risks fit other communication or leadership problems less directly.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "directive",
+        "risk"
+      ]
+    },
+    {
+      "question": "What best defines participative leadership in the course?",
+      "options": [
+        "Leadership based on consultation and creating buy-in",
+        "Leadership based on unilateral orders",
+        "Leadership that avoids team input completely",
+        "Leadership that only uses financial rewards"
+      ],
+      "answerIndex": 0,
+      "explanation": "Participative leadership consults others and creates adhesion. It is not unilateral, input-avoiding, or purely reward-based.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "participative",
+        "style"
+      ]
+    },
+    {
+      "question": "What is the vigilance point for participative leadership?",
+      "options": [
+        "The team may develop too much autonomy",
+        "Meetings can become too long",
+        "Instructions may become too precise",
+        "Creativity may disappear because of silence"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course jokes that participative meetings can last too long. The other options do not match the stated warning.",
+      "category": "Leadership",
+      "level": "Medium",
+      "tags": [
+        "participative",
+        "risk"
+      ]
+    },
+    {
+      "question": "What best defines delegative leadership?",
+      "options": [
+        "Fixing objectives and letting others find the means",
+        "Giving all instructions step by step",
+        "Resolving every conflict personally",
+        "Rejecting autonomy to preserve control"
+      ],
+      "answerIndex": 0,
+      "explanation": "Delegative leadership sets goals and allows people to find the means. Step-by-step control is directive, not delegative.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "delegative",
+        "style"
+      ]
+    },
+    {
+      "question": "What is the main vigilance point for delegative leadership?",
+      "options": [
+        "The project may go in every direction",
+        "No one ever gains autonomy",
+        "The leader becomes too factual",
+        "Meetings always become too long"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course warns that delegative leadership can go in all directions. It can develop autonomy, but needs enough structure.",
+      "category": "Leadership",
+      "level": "Medium",
+      "tags": [
+        "delegative",
+        "risk"
+      ]
+    },
+    {
+      "question": "What best defines coach leadership in the course?",
+      "options": [
+        "Detecting talents and asking questions rather than giving answers",
+        "Making every decision alone",
+        "Avoiding individual development",
+        "Using status pressure to obtain compliance"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coach leadership develops people, detects talents, and uses questions. The other choices contradict the course definition.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "coach",
+        "style"
+      ]
+    },
+    {
+      "question": "What best defines visionary leadership?",
+      "options": [
+        "Respecting only established ideas",
+        "Challenging established ideas and inspiring original proposals",
+        "Avoiding innovation because it creates conflict",
+        "Providing detailed operational instructions for every task"
+      ],
+      "answerIndex": 1,
+      "explanation": "Visionary leadership challenges established ideas and inspires originality. It can require structure later, but it is not primarily operational control.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "visionary",
+        "style"
+      ]
+    },
+    {
+      "question": "According to leadership situationnel, which statement is correct?",
+      "options": [
+        "One leadership style is universally best",
+        "Effective leadership adapts to the situation",
+        "Directive leadership should always be avoided",
+        "Team maturity does not matter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Situational leadership means the right style depends on the context. Variables include team maturity, task, time constraints, risk, and culture.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "situational",
+        "adaptation"
+      ]
+    },
+    {
+      "question": "Which variable is explicitly considered in choosing a situational leadership style?",
+      "options": [
+        "Color of the meeting room",
+        "Maturity of the team",
+        "Number of emojis used",
+        "Personal preference of the loudest member only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Team maturity is one of the variables, along with task nature, time constraints, stakes, risks, and organizational culture.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "situational",
+        "maturity"
+      ]
+    },
+    {
+      "question": "Which scenario best calls for a more directive style at the beginning?",
+      "options": [
+        "A novice team that has never worked together and lacks methods",
+        "A team of experts with strong specializations",
+        "A brainstorming contest with no constraints",
+        "A group already autonomous with clear routines"
+      ],
+      "answerIndex": 0,
+      "explanation": "A novice team needs structure and clear methods at first. Experts or autonomous teams may require more participative or delegative styles.",
+      "category": "Leadership",
+      "level": "Hard",
+      "tags": [
+        "scenario",
+        "directive"
+      ]
+    },
+    {
+      "question": "Which leadership style would usually help a team of experts with strong egos collaborate without killing creativity?",
+      "options": [
+        "Purely directive",
+        "Participative with clear facilitation",
+        "Avoidant with no intervention",
+        "Randomly changing styles every meeting"
+      ],
+      "answerIndex": 1,
+      "explanation": "A participative approach can channel expertise and create buy-in, while facilitation keeps strong personalities from dominating. Pure direction may stifle creativity, and avoidance leaves conflict unresolved.",
+      "category": "Leadership",
+      "level": "Hard",
+      "tags": [
+        "scenario",
+        "experts"
+      ]
+    },
+    {
+      "question": "Which style is most useful during ideation for an innovation contest, before moving to execution structure?",
+      "options": [
+        "Visionary",
+        "Only directive",
+        "Only administrative",
+        "Passive-aggressive"
+      ],
+      "answerIndex": 0,
+      "explanation": "Visionary leadership encourages originality and bold ideas during ideation. Execution may later require more structure, but the creative phase benefits from vision.",
+      "category": "Leadership",
+      "level": "Hard",
+      "tags": [
+        "scenario",
+        "innovation"
+      ]
+    },
+    {
+      "question": "Which four pillars of leadership are presented in the course?",
+      "options": [
+        "Expertise, legitimacy, exemplarity, relationship",
+        "Status, certainty, autonomy, justice",
+        "Speed, authority, silence, control",
+        "Emotion, behavior, impact, deadline"
+      ],
+      "answerIndex": 0,
+      "explanation": "The four pillars are expertise, legitimacy, exemplarity, and relationship. Other options refer to SCARF, FBI feedback, or unrelated traits.",
+      "category": "Leadership",
+      "level": "Easy",
+      "tags": [
+        "pillars",
+        "leadership"
+      ]
+    },
+    {
+      "question": "Which is a frequent leadership style error?",
+      "options": [
+        "Adapting style to the team's maturity",
+        "Using one style for every situation",
+        "Clarifying expectations",
+        "Building trust through consistency"
+      ],
+      "answerIndex": 1,
+      "explanation": "A frequent error is using a single style in all situations. Adaptation, clarity, and trust are positive practices.",
+      "category": "Leadership",
+      "level": "Medium",
+      "tags": [
+        "errors",
+        "style"
+      ]
+    },
+    {
+      "question": "Which statement best captures the course view on conflict prevention?",
+      "options": [
+        "Prevention is less important than repair",
+        "Preventing is better than curing",
+        "Prevention means avoiding all disagreement",
+        "Prevention only concerns written rules"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course states 'Prévenir > Guérir': preventing is better than curing. Prevention is not total avoidance and includes structure, relations, and processes.",
+      "category": "Conflict prevention",
+      "level": "Easy",
+      "tags": [
+        "prevention",
+        "principle"
+      ]
+    },
+    {
+      "question": "What are the three levels of conflict prevention in the course?",
+      "options": [
+        "Structure, relations, processes",
+        "Status, certainty, autonomy",
+        "Direct, playful, calm",
+        "Analyst, assertive, accommodator"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course gives three prevention levels: structure or environment, relations or communication, and processes or methods.",
+      "category": "Conflict prevention",
+      "level": "Easy",
+      "tags": [
+        "levels",
+        "prevention"
+      ]
+    },
+    {
+      "question": "What is the purpose of a RACI matrix in prevention?",
+      "options": [
+        "To define who is Responsible, Approves, is Consulted, and is Informed",
+        "To measure emotional intensity during conflict",
+        "To choose the best emoji for a message",
+        "To rank team members by status"
+      ],
+      "answerIndex": 0,
+      "explanation": "RACI clarifies roles and responsibilities by specifying Responsible, Approver, Consulted, and Informed. It is a structural prevention tool.",
+      "category": "Conflict prevention",
+      "level": "Easy",
+      "tags": [
+        "RACI",
+        "roles"
+      ]
+    },
+    {
+      "question": "Which practice belongs to process-level prevention?",
+      "options": [
+        "Frequent checkpoints and clearly defined milestones",
+        "Public reprimands",
+        "Secret alliances",
+        "Changing decisions without communicating"
+      ],
+      "answerIndex": 0,
+      "explanation": "Process prevention includes frequent checkpoints, clear milestones, decision methods, follow-up, and early problem resolution. The other choices create conflict.",
+      "category": "Conflict prevention",
+      "level": "Easy",
+      "tags": [
+        "process",
+        "milestones"
+      ]
+    },
+    {
+      "question": "Which practice supports early problem resolution?",
+      "options": [
+        "No blame culture, remediation plan, and lessons learned",
+        "Waiting until the final deadline",
+        "Punishing every reported problem",
+        "Deleting previous meeting notes"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course recommends a no-blame culture, quick corrective actions, and lessons learned. Delay, punishment, and lost documentation prevent early resolution.",
+      "category": "Conflict prevention",
+      "level": "Medium",
+      "tags": [
+        "no blame",
+        "resolution"
+      ]
+    },
+    {
+      "question": "In the 'Silence Radio' prevention scenario, which signal is most important?",
+      "options": [
+        "A member communicates less, gives short answers, and withdraws from group work",
+        "A member asks for clearer objectives",
+        "The team creates a shared document",
+        "The group schedules weekly checkpoints"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rare short replies, withdrawal, camera off, and declining work sessions signal disengagement. The other options are neutral or preventive.",
+      "category": "Conflict prevention",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "warning signs"
+      ]
+    },
+    {
+      "question": "In the 'Triangle' scenario, what is the main risk?",
+      "options": [
+        "An alliance creates a two-against-three dynamic and makes others feel like executants",
+        "The team has too many clear roles",
+        "Meetings are too short",
+        "Everyone is consulted equally"
+      ],
+      "answerIndex": 0,
+      "explanation": "The risk is subgroup formation and hidden pre-meetings that distort collective decision-making. Clear roles and equal consultation would reduce rather than create conflict.",
+      "category": "Conflict prevention",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "alliance"
+      ]
+    },
+    {
+      "question": "In the 'Loop' scenario, which process failure appears repeatedly?",
+      "options": [
+        "Decisions are taken but not applied and previous minutes are ignored",
+        "Everyone documents alternatives carefully",
+        "The team has too many objective criteria",
+        "The group has strong no-blame reporting"
+      ],
+      "answerIndex": 0,
+      "explanation": "The loop shows repeated topics, unapplied decisions, ignored minutes, and unclear continuity. These are process failures.",
+      "category": "Conflict prevention",
+      "level": "Medium",
+      "tags": [
+        "scenario",
+        "process"
+      ]
+    },
+    {
+      "question": "What is the first major phase of negotiation work described in the course?",
+      "options": [
+        "Observation and building a relationship of trust",
+        "Immediate proposal of a final solution",
+        "Public accusation of the opposing side",
+        "Forcing agreement before listening"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course lists observation and construction of trust as the first phase, followed by building a shared solution and implementing it.",
+      "category": "Negotiation fundamentals",
+      "level": "Easy",
+      "tags": [
+        "phases",
+        "trust"
+      ]
+    },
+    {
+      "question": "What is active listening composed of in the course?",
+      "options": [
+        "Observing non-verbal language, identifying emotions and interests, mastering silence, and reformulating",
+        "Preparing only arguments and ignoring emotions",
+        "Speaking faster to dominate the rhythm",
+        "Avoiding reformulation because it slows negotiation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Active listening includes observing non-verbal cues, emotions, silence, interests, desires, and reformulation. The other options undermine listening.",
+      "category": "Negotiation fundamentals",
+      "level": "Easy",
+      "tags": [
+        "active listening",
+        "reformulation"
+      ]
+    },
+    {
+      "question": "What is the 'force of vagueness' in negotiation?",
+      "options": [
+        "Announcing all intentions immediately",
+        "Letting the other party reveal itself before fully disclosing one's position",
+        "Hiding every objective forever",
+        "Refusing to listen to the other side"
+      ],
+      "answerIndex": 1,
+      "explanation": "The force of vagueness means avoiding premature disclosure and letting the other person reveal information while uncertainty is maintained. It is not total secrecy or refusal to listen.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "vagueness",
+        "strategy"
+      ]
+    },
+    {
+      "question": "What does tactical empathy involve?",
+      "options": [
+        "Understanding the other party's position without necessarily agreeing with it",
+        "Agreeing with everything to avoid tension",
+        "Rejecting emotions as irrelevant",
+        "Revealing all concessions first"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tactical empathy is understanding another position without adhesion. It is not automatic agreement, emotion denial, or premature concession.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "tactical empathy",
+        "understanding"
+      ]
+    },
+    {
+      "question": "How does the mirror effect work?",
+      "options": [
+        "Repeating two or three words on an interrogative tone and then staying silent",
+        "Summarizing an entire argument with judgment",
+        "Answering every question with a direct solution",
+        "Changing the subject to reduce pressure"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mirror effect repeats a few words with a questioning tone and silence. It encourages the other party to continue speaking.",
+      "category": "Negotiation techniques",
+      "level": "Easy",
+      "tags": [
+        "mirroring",
+        "silence"
+      ]
+    },
+    {
+      "question": "Which response best illustrates the mirror effect to 'I am frustrated by this situation'?",
+      "options": [
+        "That is not serious",
+        "By this situation?",
+        "Here is the solution",
+        "Why are emotions involved?"
+      ],
+      "answerIndex": 1,
+      "explanation": "'By this situation?' mirrors key words and invites elaboration. The other choices judge, solve too quickly, or dismiss emotion.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "mirroring",
+        "example"
+      ]
+    },
+    {
+      "question": "What is emotional labeling?",
+      "options": [
+        "Naming what the other person seems to feel in an objective way",
+        "Telling the other person what to do",
+        "Making emotions disappear through logic",
+        "Using labels to classify people permanently"
+      ],
+      "answerIndex": 0,
+      "explanation": "Labeling names an apparent emotion objectively, such as 'It seems that this situation is worrying.' It is not an order, a denial of emotion, or a permanent label.",
+      "category": "Negotiation techniques",
+      "level": "Easy",
+      "tags": [
+        "labeling",
+        "emotions"
+      ]
+    },
+    {
+      "question": "Which emotional label follows the course guidance best?",
+      "options": [
+        "It seems that this situation is worrying",
+        "I think the person is angry and unreasonable",
+        "Calm down now",
+        "There is no reason to feel that"
+      ],
+      "answerIndex": 0,
+      "explanation": "The recommended form objectifies the observation and invites reflection. Judgment, command, and minimization are pitfalls.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "labeling",
+        "phrasing"
+      ]
+    },
+    {
+      "question": "Why does the course advise avoiding 'why' in calibrated questions?",
+      "options": [
+        "Because 'why' can sound accusatory and less constructive",
+        "Because 'why' is always grammatically wrong",
+        "Because questions should never be open",
+        "Because it reveals all objectives immediately"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course recommends 'how' and 'in what way' questions and avoids 'why', which can feel accusatory. Open questions are encouraged.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "calibrated questions",
+        "why"
+      ]
+    },
+    {
+      "question": "Which is a calibrated question from the course logic?",
+      "options": [
+        "How am I supposed to accept that?",
+        "Why are they so unfair?",
+        "This must be accepted now",
+        "Is agreement mandatory?"
+      ],
+      "answerIndex": 0,
+      "explanation": "'How am I supposed to accept that?' is an open calibrated question that forces the other side to engage with constraints. The other options accuse, impose, or close the discussion.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "calibrated questions",
+        "example"
+      ]
+    },
+    {
+      "question": "Which negotiation tone is recommended to defuse tension and pass difficult information?",
+      "options": [
+        "Direct tone",
+        "Playful or amused tone",
+        "Aggressive tone",
+        "Punitive tone"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course says the direct tone should be avoided, while an amused or playful tone can defuse tension. A slow, calm tone is useful when things accelerate.",
+      "category": "Negotiation techniques",
+      "level": "Easy",
+      "tags": [
+        "tone",
+        "tension"
+      ]
+    },
+    {
+      "question": "Which tone is recommended when things accelerate during negotiation?",
+      "options": [
+        "Slow, calm, soothing tone",
+        "Direct and sharp tone",
+        "Sarcastic tone",
+        "Louder tone"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course recommends a slow, calm, soothing tone when the exchange speeds up. Sarcasm or loudness can escalate.",
+      "category": "Negotiation techniques",
+      "level": "Easy",
+      "tags": [
+        "tone",
+        "calm"
+      ]
+    },
+    {
+      "question": "Which is one of the negotiation pitfalls to avoid?",
+      "options": [
+        "Interrupting the other person",
+        "Using silence strategically",
+        "Reformulating interests",
+        "Recognizing triggers"
+      ],
+      "answerIndex": 0,
+      "explanation": "Interrupting is listed as a pitfall, along with judging, giving advice, and minimizing emotions. Silence, reformulation, and recognizing triggers are useful practices.",
+      "category": "Negotiation techniques",
+      "level": "Easy",
+      "tags": [
+        "pitfalls",
+        "listening"
+      ]
+    },
+    {
+      "question": "What is a creative 'no'?",
+      "options": [
+        "A question designed so that saying no feels safe and productive",
+        "A refusal that ends the relationship",
+        "A hidden insult inside a polite sentence",
+        "A way to avoid all negotiation"
+      ],
+      "answerIndex": 0,
+      "explanation": "The creative no uses questions where the expected response is no, making discussion safer and opening space. It is not a destructive refusal or avoidance.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "creative no",
+        "questions"
+      ]
+    },
+    {
+      "question": "Which example best represents a creative 'no'?",
+      "options": [
+        "Is it too early to schedule a meeting?",
+        "Can agreement be forced today?",
+        "Why is this project abandoned?",
+        "Accept this appointment now"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Is it too early to schedule a meeting?' invites a safe no. The other options are coercive, accusatory, or not aligned with the technique.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "creative no",
+        "example"
+      ]
+    },
+    {
+      "question": "What is an accusation audit?",
+      "options": [
+        "Naming what the other party may think negatively before delivering difficult news",
+        "Listing every fault of the other side",
+        "Avoiding bad news until the end",
+        "Forcing the other party to apologize first"
+      ],
+      "answerIndex": 0,
+      "explanation": "An accusation audit anticipates negative perceptions, such as 'This may seem unserious,' to defuse reaction. It is not a blame list or avoidance.",
+      "category": "Negotiation techniques",
+      "level": "Medium",
+      "tags": [
+        "accusation audit",
+        "bad news"
+      ]
+    },
+    {
+      "question": "Which is part of emotional self-management in negotiation?",
+      "options": [
+        "Recognizing triggers and taking distance",
+        "Interrupting quickly",
+        "Minimizing emotions",
+        "Dictating conduct"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course lists recognizing triggers, breathing techniques, taking distance, and calmly reframing through external context. The other options are pitfalls.",
+      "category": "Negotiation techniques",
+      "level": "Easy",
+      "tags": [
+        "emotions",
+        "self-management"
+      ]
+    },
+    {
+      "question": "What should be analyzed when preparing a negotiation?",
+      "options": [
+        "The other party's position, decision power, constraints, and interests",
+        "Only the desired result",
+        "Only the strongest argument",
+        "Only the location"
+      ],
+      "answerIndex": 0,
+      "explanation": "Preparation includes analyzing the other party, defining objectives, preparing arguments, anticipating obstacles, timing, and final checks. Focusing on one element is insufficient.",
+      "category": "Negotiation preparation",
+      "level": "Easy",
+      "tags": [
+        "preparation",
+        "analysis"
+      ]
+    },
+    {
+      "question": "Which objective should be defined during negotiation preparation?",
+      "options": [
+        "Ideal objective, minimal acceptable objective, red lines, and margin of maneuver",
+        "Only a dream outcome",
+        "Only the opponent's objective",
+        "Only the first concession"
+      ],
+      "answerIndex": 0,
+      "explanation": "The preparation grid includes ideal, minimum acceptable, red lines, and margin. A single dream outcome is too fragile.",
+      "category": "Negotiation preparation",
+      "level": "Medium",
+      "tags": [
+        "objectives",
+        "red lines"
+      ]
+    },
+    {
+      "question": "In the apartment negotiation scenario, which technique is prioritized?",
+      "options": [
+        "Labeling the owner's need for security and asking calibrated reassurance questions",
+        "Threatening to expose the owner",
+        "Accepting every agency condition immediately",
+        "Avoiding discussion of guarantees"
+      ],
+      "answerIndex": 0,
+      "explanation": "The scenario suggests labeling security concerns, calibrated questions, and mirroring fears. Threats, immediate acceptance, or avoidance do not match the proposed techniques.",
+      "category": "Negotiation scenarios",
+      "level": "Hard",
+      "tags": [
+        "apartment",
+        "labeling"
+      ]
+    },
+    {
+      "question": "In the hybrid internship scenario, what is a possible solution?",
+      "options": [
+        "Propose a trial period and identify key in-person days",
+        "Demand full remote work without compromise",
+        "Ignore equity concerns",
+        "Refuse to discuss objectives"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course suggests a trial period, key in-person days, precise objectives, and more hours on presence days. The other options ignore the blockers.",
+      "category": "Negotiation scenarios",
+      "level": "Hard",
+      "tags": [
+        "internship",
+        "hybrid"
+      ]
+    },
+    {
+      "question": "In the association crisis scenario, which option is proposed as a solution?",
+      "options": [
+        "Reduce some services or spread payments",
+        "Cancel all communication with the provider",
+        "Deny that the contract exists",
+        "Wait until the event day"
+      ],
+      "answerIndex": 0,
+      "explanation": "Possible solutions include reducing services, spreading payments, long-term partnership, or additional sponsors. Avoidance and denial worsen the issue.",
+      "category": "Negotiation scenarios",
+      "level": "Hard",
+      "tags": [
+        "association",
+        "provider"
+      ]
+    },
+    {
+      "question": "In the group conflict scenario, which technique is especially relevant when a member threatens to leave after a last-minute change?",
+      "options": [
+        "Strong emotional labeling and calibrated questions about real needs",
+        "Public humiliation",
+        "Immediate expulsion",
+        "Ignoring the threat completely"
+      ],
+      "answerIndex": 0,
+      "explanation": "The scenario recommends strong emotional labeling, strategic silence, and calibrated questions about real needs. Punitive or avoidant reactions escalate.",
+      "category": "Negotiation scenarios",
+      "level": "Hard",
+      "tags": [
+        "group conflict",
+        "labeling"
+      ]
+    },
+    {
+      "question": "What makes a negotiation complex in the course?",
+      "options": [
+        "Many actors, important stakes, strong emotional context, long history, and time pressure",
+        "Only having one actor and no time pressure",
+        "Only technical disagreement",
+        "Only a written contract"
+      ],
+      "answerIndex": 0,
+      "explanation": "Complex negotiations involve multiple actors, high stakes, emotions, history, and deadlines. The other options are incomplete.",
+      "category": "Complex negotiation",
+      "level": "Easy",
+      "tags": [
+        "complexity",
+        "stakes"
+      ]
+    },
+    {
+      "question": "Which is one of the five errors to avoid in complex negotiations?",
+      "options": [
+        "Reacting emotionally",
+        "Mapping actors",
+        "Maintaining communication",
+        "Documenting progress"
+      ],
+      "answerIndex": 0,
+      "explanation": "Reacting emotionally is an error. Mapping actors, communication, and documentation are recommended strategies.",
+      "category": "Complex negotiation",
+      "level": "Easy",
+      "tags": [
+        "errors",
+        "emotion"
+      ]
+    },
+    {
+      "question": "What does MAPS stand for in the course memory aid?",
+      "options": [
+        "Mapper, Analyze, Prioritize, Structure",
+        "Measure, Attack, Persuade, Stop",
+        "Motivate, Approve, Punish, Solve",
+        "Mirror, Accept, Promise, Submit"
+      ],
+      "answerIndex": 0,
+      "explanation": "MAPS means mapping actors, analyzing their interests, prioritizing problems, and structuring the negotiation. The other expansions are not part of the course.",
+      "category": "Complex negotiation",
+      "level": "Easy",
+      "tags": [
+        "MAPS",
+        "framework"
+      ]
+    },
+    {
+      "question": "Which is a winning strategy for complex negotiations?",
+      "options": [
+        "Fraction problems, create alliances, identify quick wins without rushing, maintain communication, document progress",
+        "Settle everything at once with the loudest actor",
+        "Ignore minor stakeholders",
+        "Stay fixed on initial positions"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course recommends fractioning problems, alliances, quick wins without haste, communication, and documentation. The alternatives are listed as errors.",
+      "category": "Complex negotiation",
+      "level": "Hard",
+      "tags": [
+        "strategy",
+        "complexity"
+      ]
+    },
+    {
+      "question": "In the festival negotiation exercise, which rule is explicitly encouraged?",
+      "options": [
+        "Stay in role, listen, seek solutions, and be creative",
+        "Use personal attacks to win",
+        "Block systematically",
+        "Ignore the other teams"
+      ],
+      "answerIndex": 0,
+      "explanation": "The exercise rules encourage staying in role, listening, seeking solutions, and creativity. Personal attacks and systematic blocking are prohibited.",
+      "category": "Complex negotiation",
+      "level": "Easy",
+      "tags": [
+        "festival",
+        "rules"
+      ]
+    },
+    {
+      "question": "Which technique is listed for the festival negotiation exercise?",
+      "options": [
+        "Mirroring",
+        "Public reprimand",
+        "Ghosting",
+        "Micromanagement"
+      ],
+      "answerIndex": 0,
+      "explanation": "The techniques include mirroring, open questions, emotional labeling, accusation audit, and silence. Public reprimand, ghosting, and micromanagement are counterproductive.",
+      "category": "Complex negotiation",
+      "level": "Easy",
+      "tags": [
+        "festival",
+        "techniques"
+      ]
+    },
+    {
+      "question": "Which debrief criterion is part of the negotiation evaluation grid?",
+      "options": [
+        "Quality of listening",
+        "Number of interruptions",
+        "Ability to humiliate the opponent",
+        "Speed of final blame"
+      ],
+      "answerIndex": 0,
+      "explanation": "The grid observes question use, listening quality, emotion management, solution creativity, and final result. Interruptions and blame are pitfalls.",
+      "category": "Negotiation preparation",
+      "level": "Medium",
+      "tags": [
+        "evaluation",
+        "listening"
+      ]
+    },
+    {
+      "question": "Which statement best synthesizes the course approach to conflict management?",
+      "options": [
+        "Diagnose social needs, choose an adapted behavior or leadership style, communicate clearly, and negotiate through listening and structure",
+        "Win fast by imposing decisions and avoiding emotions",
+        "Treat all conflicts as digital misunderstandings only",
+        "Use one universal method regardless of context"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course combines diagnosis, adaptive styles, clear communication, prevention, active listening, and negotiation techniques. It explicitly rejects one-size-fits-all and purely coercive approaches.",
+      "category": "Synthesis",
+      "level": "Hard",
+      "tags": [
+        "synthesis",
+        "course"
+      ]
+    }
+  ]
+}
