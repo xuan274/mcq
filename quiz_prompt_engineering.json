@@ -1,0 +1,1096 @@
+{
+  "title": "Prompt Engineering MCQ Quiz",
+  "subtitle": "Multiple-choice questions based on the 2025/26 Ynov Paris course slides on prompt engineering, AI limits, weak prompts, and the five elements of an effective prompt.",
+  "totalQuestions": 65,
+  "questions": [
+    {
+      "question": "Which statement best matches the course definition of artificial intelligence?",
+      "options": [
+        "A search engine that only returns existing web pages",
+        "A database that only stores information without producing new results",
+        "A human-like mind that understands the world exactly as a person does",
+        "A system that analyzes data and performs tasks usually requiring human intelligence"
+      ],
+      "answerIndex": 3,
+      "explanation": "The correct answer reflects the course definition: AI analyzes data and performs tasks such as writing, answering, image creation, or idea generation. The human-like mind option is misleading because the course states that AI does not think or understand the world like a human. The database and search-engine options are too narrow.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "AI",
+        "definition"
+      ]
+    },
+    {
+      "question": "In the course workflow, what happens immediately after a prompt is written?",
+      "options": [
+        "The AI stores the answer as a fixed truth",
+        "The AI analyzes the request",
+        "The AI automatically knows the hidden intention",
+        "The AI asks a human teacher for validation"
+      ],
+      "answerIndex": 1,
+      "explanation": "The sequence is: a prompt is written, the AI analyzes the request, predicts the most probable answer, then generates a result. Hidden intention is not automatically known, and the course does not describe teacher validation or fixed truth storage.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "workflow",
+        "prompt"
+      ]
+    },
+    {
+      "question": "What is the main goal of the session described in the course?",
+      "options": [
+        "To replace all human communication work with automated tools",
+        "To compare paid AI subscriptions",
+        "To teach only image-generation commands",
+        "To identify frequent prompt errors and structure requests more effectively"
+      ],
+      "answerIndex": 3,
+      "explanation": "The course goal is to identify common errors, understand context, structure requests, and apply good practices for more precise and relevant answers. The other choices reduce the course to unrelated or overly narrow aims.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "course_objectives"
+      ]
+    },
+    {
+      "question": "Why does the course emphasize prompt engineering?",
+      "options": [
+        "Because AI refuses to answer short prompts in all cases",
+        "Because AI output quality depends strongly on the information supplied",
+        "Because prompts are only useful for coding tasks",
+        "Because AI can infer all preferences without being told"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course explains that clearer, more precise, contextualized input improves the relevance of AI responses. Short prompts are not always refused, prompt engineering is not only for coding, and AI cannot infer all preferences.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "prompt_quality"
+      ]
+    },
+    {
+      "question": "Which item is part of the course agenda?",
+      "options": [
+        "Legal regulation of copyright",
+        "The five elements of a good prompt",
+        "Installation of local machine-learning models",
+        "Financial analysis of AI companies"
+      ],
+      "answerIndex": 1,
+      "explanation": "The agenda includes objectives, exercises, errors with AI, and the five elements of a good prompt. The other topics are not presented as agenda items in the PDF.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "agenda"
+      ]
+    },
+    {
+      "question": "Which description best defines a prompt in the context of this course?",
+      "options": [
+        "A visual filter applied to generated images only",
+        "A request or instruction given to AI to produce a result",
+        "A database table used to organize outputs",
+        "A password used to access an AI account"
+      ],
+      "answerIndex": 1,
+      "explanation": "A prompt is the instruction or request that guides AI output. The other choices confuse prompts with authentication, databases, or image-only settings.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "prompt",
+        "definition"
+      ]
+    },
+    {
+      "question": "What does the course imply about AI reasoning?",
+      "options": [
+        "AI predicts likely responses based on data rather than understanding like a human",
+        "AI always reasons with the same awareness as a human expert",
+        "AI cannot produce text because it only processes numbers",
+        "AI understands every social situation without context"
+      ],
+      "answerIndex": 0,
+      "explanation": "The course states that AI predicts the most probable response and does not understand the world like a human. The other options attribute human understanding or incorrect limitations to AI.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "AI_limits",
+        "prediction"
+      ]
+    },
+    {
+      "question": "Which outcome is most likely when a prompt lacks clarity?",
+      "options": [
+        "A response that becomes automatically more creative",
+        "A response that refuses all marketing topics",
+        "A response that is generic or poorly oriented",
+        "A response that always follows a table format"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course repeatedly links vague or weak prompts to generic, poorly adapted, or less usable answers. The other options are not supported by the course.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "clarity",
+        "quality"
+      ]
+    },
+    {
+      "question": "What is the most accurate description of prompt engineering in this lesson?",
+      "options": [
+        "The process of programming an AI model from scratch",
+        "The act of choosing an AI brand before writing anything",
+        "The practice of structuring AI requests using role, context, mission, constraints, and format",
+        "The use of only long prompts regardless of purpose"
+      ],
+      "answerIndex": 2,
+      "explanation": "The lesson focuses on improving prompts through five elements. Programming a model, choosing a brand, or making every prompt long is not the same as prompt engineering.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "prompt_engineering"
+      ]
+    },
+    {
+      "question": "Which course aim is connected to professional usefulness?",
+      "options": [
+        "Avoiding all constraints in prompts",
+        "Memorizing the names of every AI tool available",
+        "Obtaining responses that are more precise, relevant, and adapted to expressed needs",
+        "Using the same prompt for every task"
+      ],
+      "answerIndex": 2,
+      "explanation": "The stated aim is better precision, relevance, and adaptation. Memorizing tools, avoiding constraints, or reusing one prompt in every case would not meet that aim.",
+      "category": "Foundations of AI and prompt engineering",
+      "level": "Easy",
+      "tags": [
+        "relevance",
+        "professional_use"
+      ]
+    },
+    {
+      "question": "Which list contains only generative AI uses mentioned in the course?",
+      "options": [
+        "Hardware repair, battery charging, screen cleaning, printing",
+        "Calendar reminders, GPS navigation, spreadsheet sorting, email storage",
+        "Text generation, image creation, video creation, code generation",
+        "Accounting audits, passport control, weather measurement, banking transfer"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course lists text, image, video, code, music, and data-analysis uses. The other lists include tasks not presented as the main generative AI uses in the lesson.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Easy",
+      "tags": [
+        "generative_AI",
+        "uses"
+      ]
+    },
+    {
+      "question": "Which tool is given as an example of a generative AI tool in the course?",
+      "options": [
+        "Photoshop only",
+        "Excel only",
+        "Notion only",
+        "Midjourney"
+      ],
+      "answerIndex": 3,
+      "explanation": "The course names tools such as ChatGPT, Claude, Gemini, and Midjourney. Photoshop, Excel, and Notion may use AI features in some contexts, but they are not the examples listed in the course slide.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Easy",
+      "tags": [
+        "tools"
+      ]
+    },
+    {
+      "question": "Why can AI respond badly according to the course?",
+      "options": [
+        "It is designed to ignore every detailed instruction",
+        "It cannot guess intentions, context, expectations, or preferences that were not provided",
+        "It always prefers short answers over relevant answers",
+        "It only answers correctly when prompts are written in code"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course explains that AI lacks access to unstated intentions, context, level of requirement, and personal preferences. The other options exaggerate or misrepresent the reason for poor answers.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Easy",
+      "tags": [
+        "errors",
+        "context"
+      ]
+    },
+    {
+      "question": "Which missing element is most directly responsible for a generic answer to a communication request?",
+      "options": [
+        "The color of the AI interface",
+        "The date of the computer purchase",
+        "Context about the project, audience, and objective",
+        "The number of tabs open in the browser"
+      ],
+      "answerIndex": 2,
+      "explanation": "For a communication request, project context, target audience, and objective help shape the answer. Interface color, browser tabs, and unrelated purchase dates do not guide the response meaningfully.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Easy",
+      "tags": [
+        "generic_answer",
+        "context"
+      ]
+    },
+    {
+      "question": "What does the phrase 'the AI predicts the most probable answer' imply?",
+      "options": [
+        "The AI secretly reads the user's mind",
+        "The AI never changes its answer across contexts",
+        "The output is generated from patterns and supplied information, not guaranteed human understanding",
+        "The output is always objectively correct"
+      ],
+      "answerIndex": 2,
+      "explanation": "Prediction means the system produces likely output from data and prompt information. It does not guarantee correctness, mind reading, or fixed answers across different contexts.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Easy",
+      "tags": [
+        "prediction",
+        "AI_limits"
+      ]
+    },
+    {
+      "question": "Which factor is NOT listed as something AI automatically knows?",
+      "options": [
+        "The user's context",
+        "Personal preferences",
+        "The exact price of every product in every store",
+        "The user's intentions"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course specifically lists intentions, context, level of requirement, and personal preferences as unknown unless supplied. Product prices are also not automatically known, but they are not part of the course list, making this the best answer to the wording.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Easy",
+      "tags": [
+        "AI_limits",
+        "which_is_not"
+      ]
+    },
+    {
+      "question": "Which statement best connects AI limitations to prompt writing?",
+      "options": [
+        "Because AI lacks hidden context, prompt writing must make relevant information explicit",
+        "Because AI is a database, prompts should contain only keywords",
+        "Because AI understands everything, prompts should avoid detail",
+        "Because AI only produces images, prompts should not mention text"
+      ],
+      "answerIndex": 0,
+      "explanation": "The correct statement follows directly from the course: missing context leads to weaker answers, so information must be made explicit. The other statements contradict the course definition and examples.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Medium",
+      "tags": [
+        "context",
+        "prompt_strategy"
+      ]
+    },
+    {
+      "question": "Which expected result matches a weak prompt such as 'Make an Instagram campaign'?",
+      "options": [
+        "A complete campaign with verified business data",
+        "Highly personalized to budget, tone, target, and duration",
+        "A guaranteed viral campaign plan",
+        "Too generic, poorly adapted, not necessarily usable"
+      ],
+      "answerIndex": 3,
+      "explanation": "The course explicitly describes the probable response to a weak Instagram prompt as too generic, poorly adapted, not very creative, and not necessarily usable. The other options assume information not supplied.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Medium",
+      "tags": [
+        "weak_prompt"
+      ]
+    },
+    {
+      "question": "Which use of AI is mentioned alongside text, images, videos, code, and music?",
+      "options": [
+        "Physical delivery",
+        "Medical diagnosis as a guaranteed service",
+        "Data analysis",
+        "Bank account creation"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course includes data analysis among the principal uses. The other options are not listed as core uses in the slide and some imply risky guarantees.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Medium",
+      "tags": [
+        "uses",
+        "data_analysis"
+      ]
+    },
+    {
+      "question": "Which principle best explains why two prompts on the same topic can produce very different outputs?",
+      "options": [
+        "Longer prompts are automatically correct",
+        "The role, context, mission, constraints, and format can orient the response differently",
+        "AI always chooses outputs randomly",
+        "The topic alone fully determines the answer"
+      ],
+      "answerIndex": 1,
+      "explanation": "The five prompt elements can strongly change the answer even when the subject is the same. Randomness, topic-only determinism, or length alone do not explain the course examples.",
+      "category": "Generative AI uses and AI limitations",
+      "level": "Medium",
+      "tags": [
+        "synthesis",
+        "prompt_elements"
+      ]
+    },
+    {
+      "question": "What is the main problem with the prompt 'Talk to me about digital marketing'?",
+      "options": [
+        "It contains too many constraints",
+        "It gives too much audience context",
+        "It asks for a table with too many columns",
+        "It is broad and does not specify the action, scope, or output format"
+      ],
+      "answerIndex": 3,
+      "explanation": "The prompt is vague because it does not define a clear mission, scope, or format. The other options describe features that are absent from the prompt.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "vague_prompt",
+        "mission"
+      ]
+    },
+    {
+      "question": "Which version is closest to the improved prompt shown for digital marketing?",
+      "options": [
+        "Give everything about social media in any format",
+        "Analyze the main digital marketing trends in 2026 and present them as a list with concrete examples",
+        "Make digital marketing better",
+        "Talk about marketing digital quickly"
+      ],
+      "answerIndex": 1,
+      "explanation": "The improved version specifies the action, scope, year, structure, and examples. The other versions remain broad, unclear, or lacking a format.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "improved_prompt"
+      ]
+    },
+    {
+      "question": "Which element is added by 'under 100 words' in a prompt about SEO?",
+      "options": [
+        "A brand identity",
+        "A role",
+        "A constraint",
+        "A target platform"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Under 100 words' limits the length of the answer, so it is a constraint. It does not define a role, brand identity, or platform.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "constraints",
+        "SEO"
+      ]
+    },
+    {
+      "question": "In the improved Instagram campaign prompt, what does 'expert in social media' provide?",
+      "options": [
+        "A final format",
+        "A budget limit",
+        "A campaign duration",
+        "A role for the AI"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Expert in social media' gives the AI an identity and professional perspective. Budget, format, and duration are represented by other parts of the prompt.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "role",
+        "social_media"
+      ]
+    },
+    {
+      "question": "Which part of the improved Instagram prompt functions as context?",
+      "options": [
+        "Dynamic tone",
+        "A natural cosmetics brand for 18-25 year olds",
+        "Present the result in a table",
+        "Seven-day campaign"
+      ],
+      "answerIndex": 1,
+      "explanation": "The brand type and target audience describe the situation, so they are context. Table is format, dynamic tone is a constraint, and seven-day campaign is part of the mission or scope.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "context",
+        "campaign"
+      ]
+    },
+    {
+      "question": "Which combination makes a prompt more exploitable according to the course?",
+      "options": [
+        "Only personal preferences without a task",
+        "Only a broad topic and no limits",
+        "Specific action, useful context, constraints, and expected format",
+        "Only a tool name and no mission"
+      ],
+      "answerIndex": 2,
+      "explanation": "A usable prompt combines a clear mission with context, constraints, and format. Broad topics, tool names alone, or preferences without a task do not guide production enough.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "exploitable_output"
+      ]
+    },
+    {
+      "question": "Which prompt is best aligned with the course's good-practice model?",
+      "options": [
+        "Make something UX about students.",
+        "Improve this app.",
+        "Say if the app is good or bad, no details needed.",
+        "As a UX designer, analyze this student app for onboarding problems and return a table with issue, impact, and recommendation in beginner-friendly language."
+      ],
+      "answerIndex": 3,
+      "explanation": "The correct prompt defines role, mission, context, format, and constraint. The other choices are vague, lack context, or restrict useful explanation.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "application",
+        "UX"
+      ]
+    },
+    {
+      "question": "Which diagnosis best fits 'Make me a logo'?",
+      "options": [
+        "It already contains all five prompt elements",
+        "It lacks context about brand, audience, style, constraints, and expected deliverable",
+        "It is only weak because it mentions design",
+        "It is too technical for AI to understand"
+      ],
+      "answerIndex": 1,
+      "explanation": "The prompt gives a mission but lacks essential details. It does not contain all five elements, is not inherently too technical, and design itself is not the problem.",
+      "category": "Weak versus improved prompts",
+      "level": "Medium",
+      "tags": [
+        "logo",
+        "weak_prompt"
+      ]
+    },
+    {
+      "question": "Which set contains the five elements of a good prompt taught in the course?",
+      "options": [
+        "Budget, logo, font, image, video",
+        "Search, copy, paste, save, print",
+        "Role, context, mission, constraints, expected format",
+        "Title, subtitle, color, icon, password"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course's five elements are role, context, mission, constraints, and expected format. The other sets mix unrelated interface or production elements.",
+      "category": "The five elements of a good prompt",
+      "level": "Medium",
+      "tags": [
+        "five_elements"
+      ]
+    },
+    {
+      "question": "What is the purpose of assigning a role to the AI?",
+      "options": [
+        "To replace the mission with a job title only",
+        "To make the answer longer regardless of need",
+        "To guide vocabulary, posture, knowledge, and methods linked to an expertise domain",
+        "To prevent the AI from using any examples"
+      ],
+      "answerIndex": 2,
+      "explanation": "A role helps the AI adopt a relevant expert perspective. It does not automatically make answers longer, remove examples, or replace the need for a mission.",
+      "category": "The five elements of a good prompt",
+      "level": "Medium",
+      "tags": [
+        "role"
+      ]
+    },
+    {
+      "question": "Which prompt fragment best represents a role?",
+      "options": [
+        "Return the result as an email",
+        "My audience is 18-25 years old",
+        "Use fewer than 150 words",
+        "Act as a communication professor"
+      ],
+      "answerIndex": 3,
+      "explanation": "'Act as a communication professor' gives the AI an identity. The audience is context, word count is a constraint, and email is format.",
+      "category": "The five elements of a good prompt",
+      "level": "Medium",
+      "tags": [
+        "role"
+      ]
+    },
+    {
+      "question": "Why can the same question 'How can a website be improved?' receive different answers from different roles?",
+      "options": [
+        "AI ignores the role and always gives the same answer",
+        "The website topic prevents specialized answers",
+        "Each role focuses on different criteria such as conversion, usability, performance, or content",
+        "Roles only change grammar, not recommendations"
+      ],
+      "answerIndex": 2,
+      "explanation": "The course shows that a marketer, UX designer, developer, and web writer emphasize different aspects. The other options contradict that example.",
+      "category": "The five elements of a good prompt",
+      "level": "Medium",
+      "tags": [
+        "role",
+        "comparison"
+      ]
+    },
+    {
+      "question": "Which focus would most likely come from a UX designer role in the website example?",
+      "options": [
+        "Customer acquisition only",
+        "Server-side performance only",
+        "Search engine keywords only",
+        "User experience and ergonomics"
+      ],
+      "answerIndex": 3,
+      "explanation": "The course states that a UX designer would focus on user experience and ergonomics. Acquisition aligns more with marketing, performance with development, and keywords with web writing or SEO.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "UX",
+        "role"
+      ]
+    },
+    {
+      "question": "Which focus would most likely come from a developer role in the website example?",
+      "options": [
+        "Brand ambassadors on campus",
+        "Technical performance and accessibility",
+        "First-order discounts",
+        "Natural cosmetics campaign tone"
+      ],
+      "answerIndex": 1,
+      "explanation": "The course links the developer role to technical performance and accessibility. The other options belong to communication campaign examples, not the developer perspective.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "developer",
+        "role"
+      ]
+    },
+    {
+      "question": "What is the purpose of context in a prompt?",
+      "options": [
+        "To remove the need for a mission",
+        "To hide the real goal from AI",
+        "To help AI understand the situation, project, or objective",
+        "To force a single-word answer"
+      ],
+      "answerIndex": 2,
+      "explanation": "Context gives useful background about the situation, project, or objective. It does not hide goals, require single-word answers, or replace a clear mission.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "context"
+      ]
+    },
+    {
+      "question": "Which prompt fragment is context rather than a constraint?",
+      "options": [
+        "Maximum 150 words",
+        "A responsible fashion brand for students with a limited marketing budget",
+        "No technical jargon",
+        "Professional tone"
+      ],
+      "answerIndex": 1,
+      "explanation": "The brand, audience, and budget describe the situation. Word count, tone, and jargon limits are constraints.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "context",
+        "constraints"
+      ]
+    },
+    {
+      "question": "In the brand communication example, which recommendation becomes possible because of added context?",
+      "options": [
+        "Collaborating with student associations",
+        "Using every platform without priority",
+        "Only creating a generic blog",
+        "Ignoring the target audience"
+      ],
+      "answerIndex": 0,
+      "explanation": "With the student-focused eco-responsible brand context, collaboration with student associations becomes relevant. The other answers remain generic or unfocused.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "context",
+        "communication"
+      ]
+    },
+    {
+      "question": "What does the mission specify?",
+      "options": [
+        "The action expected from the AI",
+        "The AI company's name",
+        "The visual color of the interface",
+        "The device used to type the prompt"
+      ],
+      "answerIndex": 0,
+      "explanation": "The mission defines what the AI must do, such as generate ideas, write an article, analyze a document, or create a presentation plan. The other options are unrelated.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "mission"
+      ]
+    },
+    {
+      "question": "Which option is the clearest mission?",
+      "options": [
+        "Analyze the strengths and weaknesses of this project",
+        "Professional tone",
+        "For beginner students",
+        "In a table"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Analyze the strengths and weaknesses' is a clear action. Tone, audience level, and table format guide the response but are not the mission itself.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "mission",
+        "action_verbs"
+      ]
+    },
+    {
+      "question": "Why are action verbs important in prompt writing?",
+      "options": [
+        "They replace the need for any context",
+        "They make every answer shorter",
+        "They guide the type of production expected from AI",
+        "They automatically verify factual accuracy"
+      ],
+      "answerIndex": 2,
+      "explanation": "Action verbs such as write, analyze, and compare guide the output type. They do not guarantee factual verification, replace context, or always shorten answers.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "action_verbs",
+        "mission"
+      ]
+    },
+    {
+      "question": "Which prompt fragment is a constraint?",
+      "options": [
+        "Create a presentation plan",
+        "Act as a marketing expert",
+        "Without technical jargon",
+        "A brand for students"
+      ],
+      "answerIndex": 2,
+      "explanation": "'Without technical jargon' limits style and complexity, making it a constraint. The other fragments define mission, context, or role.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "constraints"
+      ]
+    },
+    {
+      "question": "What do constraints help prevent?",
+      "options": [
+        "Responses that include any useful structure",
+        "Responses that are too long, too complex, or poorly adapted to the audience",
+        "Responses that contain concrete examples",
+        "Responses that match the required tone"
+      ],
+      "answerIndex": 1,
+      "explanation": "Constraints guide length, tone, level, and complexity. They are meant to improve adaptation, not remove structure, tone, or examples.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "constraints",
+        "audience"
+      ]
+    },
+    {
+      "question": "Which prompt best uses constraints for a beginner audience?",
+      "options": [
+        "Give SEO ideas in any style",
+        "Tell everything about SEO for experts only",
+        "Explain SEO in under 100 words, with a pedagogical tone and no technical jargon",
+        "Explain SEO completely with no limit and all technical details"
+      ],
+      "answerIndex": 2,
+      "explanation": "The correct prompt sets length, tone, and jargon constraints for beginners. The other choices either lack constraints or target an advanced audience.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "constraints",
+        "SEO"
+      ]
+    },
+    {
+      "question": "What is the role of expected format in a prompt?",
+      "options": [
+        "To tell AI what expertise to adopt",
+        "To specify the structure in which the answer should be delivered",
+        "To describe the user's project background",
+        "To define the ethical risks of AI"
+      ],
+      "answerIndex": 1,
+      "explanation": "Expected format defines the output shape, such as a table, detailed plan, LinkedIn post, or email. Role, context, and ethical risks are separate issues.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "format"
+      ]
+    },
+    {
+      "question": "Which prompt fragment defines the expected format?",
+      "options": [
+        "Natural cosmetics brand for young adults",
+        "Budget limited",
+        "Return the answer as a table with columns: idea, estimated cost, potential impact",
+        "Act as a social media expert"
+      ],
+      "answerIndex": 2,
+      "explanation": "The table and column names specify the final structure. Budget is context or constraint, expert identity is role, and brand description is context.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "format",
+        "table"
+      ]
+    },
+    {
+      "question": "Why is expected format useful according to the course?",
+      "options": [
+        "It guarantees the answer contains no mistakes",
+        "It makes all prompts creative campaigns",
+        "It prevents any need for context",
+        "It makes the result easier to exploit and reuse"
+      ],
+      "answerIndex": 3,
+      "explanation": "The course says format helps obtain content directly adapted to its use and easier to reuse. It does not guarantee correctness or replace other prompt elements.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "format",
+        "reuse"
+      ]
+    },
+    {
+      "question": "Which classification is correct for the fragment 'dynamic tone'?",
+      "options": [
+        "Role",
+        "Mission",
+        "Expected format",
+        "Constraint"
+      ],
+      "answerIndex": 3,
+      "explanation": "Tone is a stylistic constraint that frames how the response should be written. It is not the AI identity, task action, or structural output format.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "constraints",
+        "tone"
+      ]
+    },
+    {
+      "question": "Which statement best compares constraints and expected format?",
+      "options": [
+        "Constraints define only the AI's job title; format defines only the budget",
+        "Format controls accuracy; constraints control data storage",
+        "Constraints and format are identical terms",
+        "Constraints frame limits or style; expected format defines the final structure"
+      ],
+      "answerIndex": 3,
+      "explanation": "Constraints handle limits, tone, level, and style, while format defines the shape of output. The other statements confuse or falsely equate these elements.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "comparison",
+        "constraints",
+        "format"
+      ]
+    },
+    {
+      "question": "Which order is shown in the winning structure diagram?",
+      "options": [
+        "Definition, tool, price, platform, signature",
+        "Mission, format, role, budget, conclusion",
+        "Context, answer, correction, image, table",
+        "Role, context, mission, constraints, expected format"
+      ],
+      "answerIndex": 3,
+      "explanation": "The course diagram shows the winning structure as role, context, mission, constraints, and expected format. The other orders include items outside the five-element structure.",
+      "category": "The five elements of a good prompt",
+      "level": "Hard",
+      "tags": [
+        "structure"
+      ]
+    },
+    {
+      "question": "What is the objective of Exercise 1?",
+      "options": [
+        "Memorize every AI tool on the market",
+        "Create a complete website without instructions",
+        "Transform a catastrophic prompt into a high-performing prompt",
+        "Delete all constraints from a prompt"
+      ],
+      "answerIndex": 2,
+      "explanation": "Exercise 1 asks for transforming weak starting prompts into effective prompts. The other goals are not part of the exercise.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "exercise_1"
+      ]
+    },
+    {
+      "question": "Which starting prompt appears in Exercise 1?",
+      "options": [
+        "Write a legal contract for a company acquisition",
+        "Make me a presentation about ecology",
+        "Translate an entire novel",
+        "Summarize a private medical file"
+      ],
+      "answerIndex": 1,
+      "explanation": "The exercise lists starting prompts including a presentation about ecology, a logo, and an Instagram campaign. The other tasks are not listed.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "exercise_1",
+        "ecology"
+      ]
+    },
+    {
+      "question": "Which improved version best follows the five-step model for the ecology prompt?",
+      "options": [
+        "Give some ecology information without structure.",
+        "Act as an environmental communication teacher. Prepare a 5-minute beginner presentation on daily ecological habits for high-school students, with 5 key points and simple examples.",
+        "Talk about ecology in any way.",
+        "Make ecology better."
+      ],
+      "answerIndex": 1,
+      "explanation": "The correct version includes role, mission, audience context, constraints, and a clear structure. The other choices remain vague and difficult to exploit.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "application",
+        "ecology"
+      ]
+    },
+    {
+      "question": "Which improved version best follows the five-step model for the logo prompt?",
+      "options": [
+        "Act as a brand designer. Propose 3 logo concepts for a student eco-fashion brand, minimalist style, two colors maximum, with a short rationale for each concept.",
+        "Find a brand image without explaining it.",
+        "Draw something pretty.",
+        "Make me a logo."
+      ],
+      "answerIndex": 0,
+      "explanation": "The correct prompt gives role, context, mission, constraints, and format. The other prompts do not define brand, audience, style, number of ideas, or explanation.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "application",
+        "logo"
+      ]
+    },
+    {
+      "question": "Which improved version best follows the five-step model for an Instagram campaign?",
+      "options": [
+        "Talk about social networks.",
+        "Give random post ideas with no target.",
+        "Make a campaign Instagram.",
+        "Act as a social media expert. For a natural cosmetics brand targeting 18-25 year olds, create a 7-day Instagram campaign with a dynamic tone, limited budget, and a table format."
+      ],
+      "answerIndex": 3,
+      "explanation": "This version mirrors the improved course example by adding role, context, mission, constraints, and format. The other options are vague and lack exploitable detail.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "application",
+        "Instagram"
+      ]
+    },
+    {
+      "question": "What is the goal of Exercise 2?",
+      "options": [
+        "Create a video game interface",
+        "Build a database schema",
+        "Create the best possible LinkedIn post for an alternance search",
+        "Write a restaurant menu"
+      ],
+      "answerIndex": 2,
+      "explanation": "Exercise 2 focuses on a LinkedIn publication for a student in digital creation seeking an alternance. The other tasks do not match the exercise objective.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "exercise_2",
+        "LinkedIn"
+      ]
+    },
+    {
+      "question": "Which requirement belongs to the LinkedIn publication exercise?",
+      "options": [
+        "Present the profile and highlight skills to attract recruiters",
+        "Produce a technical code file",
+        "Avoid mentioning skills or contact possibilities",
+        "Write only a private message to one friend"
+      ],
+      "answerIndex": 0,
+      "explanation": "The LinkedIn post must present the profile, highlight skills, attract recruiters, and encourage contact. The other choices contradict the exercise.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "LinkedIn",
+        "alternance"
+      ]
+    },
+    {
+      "question": "Which prompt is best for the LinkedIn exercise?",
+      "options": [
+        "Write anything about school.",
+        "Find recruiters for me.",
+        "Act as a career communication coach. Write a LinkedIn post for a digital creation student seeking an alternance next intake; highlight design and digital skills, use a professional but engaging tone, and end with a contact invitation.",
+        "Make LinkedIn good."
+      ],
+      "answerIndex": 2,
+      "explanation": "The correct prompt contains role, context, mission, constraints, and an expected communication outcome. The other options lack the structure needed for a strong post.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "application",
+        "LinkedIn"
+      ]
+    },
+    {
+      "question": "Which element is missing if a prompt says only 'Create the best LinkedIn post possible'?",
+      "options": [
+        "A topic related to LinkedIn",
+        "A request for any output",
+        "Context about the student profile, skills, audience, and goal",
+        "A general mission to create a post"
+      ],
+      "answerIndex": 2,
+      "explanation": "The prompt includes a broad mission and topic but lacks profile context, skills, target recruiters, tone, and format. That missing context reduces relevance.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "LinkedIn",
+        "context"
+      ]
+    },
+    {
+      "question": "Which choice best represents a 'which is NOT' understanding of the five steps?",
+      "options": [
+        "Role gives the AI an identity",
+        "Format indicates the final form",
+        "Context gives useful information",
+        "Password is one of the five prompt elements"
+      ],
+      "answerIndex": 3,
+      "explanation": "Password is not one of the five elements. Role, context, and format are part of the course framework.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "which_is_not",
+        "five_elements"
+      ]
+    },
+    {
+      "question": "A prompt asks: 'Act as a marketing expert. For a student clothing brand with a small budget, compare Instagram and campus events in a two-column table, maximum 120 words.' Which element is least explicit?",
+      "options": [
+        "Role",
+        "Expected format",
+        "Context",
+        "Mission"
+      ],
+      "answerIndex": 3,
+      "explanation": "Role, context, constraints, and format are very explicit. The mission is present through 'compare,' but the exact decision purpose is less explicit than the other elements, making it the least explicit part.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "synthesis",
+        "diagnosis"
+      ]
+    },
+    {
+      "question": "A prompt gives a role and a format but no project information. What is the most likely weakness?",
+      "options": [
+        "The role will become useless in every case",
+        "The answer will be impossible to format",
+        "The AI will automatically know the project context",
+        "The answer may be structured but still generic"
+      ],
+      "answerIndex": 3,
+      "explanation": "A role and format can improve orientation and structure, but missing context can still produce generic recommendations. The other choices are too absolute or contradict the course.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "synthesis",
+        "context"
+      ]
+    },
+    {
+      "question": "Which evaluation question best checks whether a prompt includes a mission?",
+      "options": [
+        "Is the final answer in a table?",
+        "Is the audience background explained?",
+        "Is the action expected from AI clearly stated?",
+        "Is the tone limited to professional?"
+      ],
+      "answerIndex": 2,
+      "explanation": "The mission is the action expected from AI. Table format, tone, and audience background correspond to format, constraints, and context.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "mission",
+        "evaluation"
+      ]
+    },
+    {
+      "question": "Which evaluation question best checks whether a prompt includes constraints?",
+      "options": [
+        "Is the project background explained?",
+        "Are limits such as length, tone, level, or jargon specified?",
+        "Is there a named expertise role?",
+        "Is there a topic at all?"
+      ],
+      "answerIndex": 1,
+      "explanation": "Constraints concern limits and style, including length, tone, level, and jargon. Role, background, and topic are different prompt components.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "constraints",
+        "evaluation"
+      ]
+    },
+    {
+      "question": "Which answer best synthesizes the course's central lesson?",
+      "options": [
+        "A strong prompt should be short and avoid all details",
+        "A strong prompt replaces the need to review the AI output",
+        "A strong prompt is only needed for image tools",
+        "A strong prompt turns implicit expectations into explicit instructions across role, context, mission, constraints, and format"
+      ],
+      "answerIndex": 3,
+      "explanation": "The central lesson is to make expectations explicit through the five-element structure. Shortness alone, image-only use, and skipping review are not supported by the course.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "synthesis",
+        "central_lesson"
+      ]
+    },
+    {
+      "question": "Which prompt would likely produce the most adapted response for a beginner learner?",
+      "options": [
+        "Act as a teacher. Explain prompt engineering to beginners in 120 words maximum, with a simple example and no technical jargon.",
+        "Write prompt engineering.",
+        "Explain prompt engineering fully.",
+        "Give every detail about AI models."
+      ],
+      "answerIndex": 0,
+      "explanation": "The correct prompt provides role, audience, mission, constraints, and example requirement. The other prompts are too vague or too broad for a beginner-focused answer.",
+      "category": "Exercises and applied prompt design",
+      "level": "Hard",
+      "tags": [
+        "application",
+        "beginner"
+      ]
+    }
+  ]
+}

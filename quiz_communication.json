@@ -1,0 +1,1080 @@
+{
+  "title": "Communication B1 Marketing - Quiz de révision",
+  "subtitle": "QCM basé sur le cours Communication : fondamentaux, AIDA, communication interne/externe, canaux, cible, SMART, PESO et campagnes.",
+  "totalQuestions": 64,
+  "questions": [
+    {
+      "question": "Quelle définition correspond le mieux à la communication dans le cours ?",
+      "options": [
+        "Un échange d’informations, d’idées, d’émotions ou de significations à travers des canaux",
+        "Une publicité conçue uniquement pour vendre un produit",
+        "Une discussion orale sans support écrit ni visuel",
+        "Une action réservée aux médias traditionnels"
+      ],
+      "answerIndex": 0,
+      "explanation": "La communication est un processus d’échange par des canaux variés. La publicité peut en faire partie, mais elle ne suffit pas à définir toute la communication.",
+      "category": "Fondamentaux de la communication",
+      "level": "Easy",
+      "tags": [
+        "definition",
+        "canaux"
+      ]
+    },
+    {
+      "question": "Dans le schéma de base, quel élément transmet le message ?",
+      "options": [
+        "Le récepteur",
+        "Le canal",
+        "L’émetteur",
+        "Le feedback"
+      ],
+      "answerIndex": 2,
+      "explanation": "L’émetteur est à l’origine du message. Le canal sert à le transporter, le récepteur le reçoit et le feedback correspond à la réponse.",
+      "category": "Fondamentaux de la communication",
+      "level": "Easy",
+      "tags": [
+        "schema",
+        "emetteur"
+      ]
+    },
+    {
+      "question": "Quel rôle correspond à l’exemple d’un label bio ou d’avis clients mis en avant ?",
+      "options": [
+        "Informer",
+        "Rassurer",
+        "Divertir",
+        "Segmenter"
+      ],
+      "answerIndex": 1,
+      "explanation": "Les avis clients et labels renforcent la confiance, donc ils rassurent. Informer transmet seulement une information, tandis que segmenter concerne le public cible.",
+      "category": "Fondamentaux de la communication",
+      "level": "Medium",
+      "tags": [
+        "roles",
+        "confiance"
+      ]
+    },
+    {
+      "question": "Quelle proposition regroupe correctement les quatre rôles principaux vus dans le cours ?",
+      "options": [
+        "Informer, séduire, créer du lien, rassurer",
+        "Produire, financer, distribuer, recruter",
+        "Analyser, budgéter, vendre, livrer",
+        "Coder, publier, modérer, archiver"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le cours présente informer, séduire ou convaincre, créer du lien et rassurer. Les autres listes mélangent des actions de gestion ou de production.",
+      "category": "Fondamentaux de la communication",
+      "level": "Easy",
+      "tags": [
+        "roles"
+      ]
+    },
+    {
+      "question": "Pourquoi la communication est-elle dite omniprésente ?",
+      "options": [
+        "Parce qu’elle existe dans les contextes personnels, professionnels et digitaux",
+        "Parce qu’elle remplace toujours le marketing et la vente",
+        "Parce qu’elle se limite aux réseaux sociaux utilisés quotidiennement",
+        "Parce qu’elle fonctionne uniquement avec un budget élevé"
+      ],
+      "answerIndex": 0,
+      "explanation": "Elle est présente dans la vie personnelle, professionnelle et digitale. Les réseaux sociaux et le budget ne représentent qu’une partie possible.",
+      "category": "Fondamentaux de la communication",
+      "level": "Medium",
+      "tags": [
+        "contexte",
+        "omnipresence"
+      ]
+    },
+    {
+      "question": "Dans une campagne Nike qui donne envie de se dépasser, quel rôle de communication domine ?",
+      "options": [
+        "Rassurer par des preuves techniques",
+        "Séduire ou convaincre par l’influence et l’émotion",
+        "Informer uniquement sur la météo",
+        "Créer un document interne pour les salariés"
+      ],
+      "answerIndex": 1,
+      "explanation": "Une campagne inspirante cherche à influencer et donner envie. Elle peut aussi créer une image, mais le rôle principal ici est de séduire ou convaincre.",
+      "category": "Fondamentaux de la communication",
+      "level": "Medium",
+      "tags": [
+        "roles",
+        "campagne"
+      ]
+    },
+    {
+      "question": "Quelle différence résume l’évolution de la communication selon la conclusion du cours ?",
+      "options": [
+        "Du one to many vers un one to one plus personnalisé",
+        "Du digital vers uniquement la télévision",
+        "Du dialogue vers une communication sans réponse",
+        "De la personnalisation vers un message identique pour tous"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le cours insiste sur le passage d’une communication de masse vers une communication plus personnalisée. Les autres choix inversent ou réduisent cette évolution.",
+      "category": "Fondamentaux de la communication",
+      "level": "Hard",
+      "tags": [
+        "evolution",
+        "personnalisation"
+      ]
+    },
+    {
+      "question": "Dans une publicité Coca-Cola diffusée à la télévision, quel fonctionnement est le plus probable par rapport à TikTok ?",
+      "options": [
+        "Un message plus uniforme adressé à un large public",
+        "Une réponse personnalisée à chaque commentaire en temps réel",
+        "Un ciblage individuel fondé uniquement sur les données de navigation",
+        "Une interaction directe obligatoire avant diffusion"
+      ],
+      "answerIndex": 0,
+      "explanation": "La télévision correspond davantage à une logique de masse. TikTok permet plus d’interaction, de personnalisation et d’instantanéité.",
+      "category": "Fondamentaux de la communication",
+      "level": "Hard",
+      "tags": [
+        "tv",
+        "tiktok",
+        "evolution"
+      ]
+    },
+    {
+      "question": "Quel couple associe correctement une tendance actuelle à son exemple ?",
+      "options": [
+        "Instantanéité : stories et TikTok",
+        "Communication descendante : commentaires en direct",
+        "Message unique : publicité ciblée",
+        "Authenticité : absence totale d’utilisateurs"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les stories et TikTok illustrent l’instantanéité. Les commentaires relèvent plutôt de l’interaction, et la publicité ciblée contredit le message unique.",
+      "category": "Fondamentaux de la communication",
+      "level": "Medium",
+      "tags": [
+        "tendances"
+      ]
+    },
+    {
+      "question": "Quelle affirmation montre une bonne compréhension de la communication moderne ?",
+      "options": [
+        "Le public peut devenir acteur par ses réactions, partages et contenus",
+        "Le public doit rester passif pour que le message soit contrôlé",
+        "La communication moderne interdit les médias traditionnels",
+        "Le même message doit toujours être utilisé pour toutes les cibles"
+      ],
+      "answerIndex": 0,
+      "explanation": "La communication actuelle favorise interaction, UGC et personnalisation. Les médias traditionnels existent encore, mais ne suffisent plus toujours.",
+      "category": "Fondamentaux de la communication",
+      "level": "Hard",
+      "tags": [
+        "interaction",
+        "ugc"
+      ]
+    },
+    {
+      "question": "Quel élément peut perturber le message dans le processus de communication ?",
+      "options": [
+        "Un bruit externe ou interne",
+        "Une cible bien définie",
+        "Un objectif SMART",
+        "Un calendrier éditorial"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les bruits peuvent être physiques ou liés à des préoccupations personnelles. Les autres éléments structurent plutôt la communication.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Easy",
+      "tags": [
+        "bruits",
+        "obstacles"
+      ]
+    },
+    {
+      "question": "Les différences de langue, de contexte ou de références culturelles relèvent surtout de quel obstacle ?",
+      "options": [
+        "Interprétations",
+        "Budget",
+        "Plan média",
+        "Call-to-action"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les interprétations varient selon la langue, le contexte et la culture. Le budget et le plan média appartiennent à la campagne, pas aux obstacles de compréhension.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Easy",
+      "tags": [
+        "interpretation",
+        "culture"
+      ]
+    },
+    {
+      "question": "Quel exemple illustre un biais cognitif dans la réception d’un message ?",
+      "options": [
+        "Un stéréotype influence la compréhension du message",
+        "Une affiche est placée dans une station de métro",
+        "Une newsletter interne annonce une réunion",
+        "Un KPI mesure le taux d’engagement"
+      ],
+      "answerIndex": 0,
+      "explanation": "Un biais cognitif vient de préjugés ou idées préconçues. Les autres exemples sont des supports ou outils de mesure.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Medium",
+      "tags": [
+        "biais",
+        "stereotype"
+      ]
+    },
+    {
+      "question": "Quel avantage est associé à la communication verbale ?",
+      "options": [
+        "Rapidité et interaction directe",
+        "Traçabilité permanente",
+        "Compréhension uniquement visuelle",
+        "Absence totale de mauvaise interprétation"
+      ],
+      "answerIndex": 0,
+      "explanation": "La communication verbale facilite la rapidité et l’échange direct. Elle peut toutefois créer des mauvaises interprétations et n’est pas toujours traçable.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Easy",
+      "tags": [
+        "verbale"
+      ]
+    },
+    {
+      "question": "Quelle limite correspond le mieux à la communication non verbale ?",
+      "options": [
+        "Risque de malentendus culturels",
+        "Impossible à utiliser avec des émotions",
+        "Obligation de passer par un email",
+        "Aucun effet sur la clarté du message"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les gestes et expressions peuvent être interprétés différemment selon les cultures. Le non verbal peut justement exprimer des émotions.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Medium",
+      "tags": [
+        "non-verbale",
+        "culture"
+      ]
+    },
+    {
+      "question": "Pourquoi la communication écrite peut-elle être utile dans une entreprise ?",
+      "options": [
+        "Elle laisse une trace et permet de transmettre des informations détaillées",
+        "Elle supprime toute distance émotionnelle",
+        "Elle impose une interaction immédiate",
+        "Elle remplace toujours les réunions"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’écrit est traçable et précis. En revanche, il peut manquer de contexte émotionnel et d’interaction directe.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Medium",
+      "tags": [
+        "ecrite",
+        "trace"
+      ]
+    },
+    {
+      "question": "Quel risque est propre à une communication visuelle trop complexe ?",
+      "options": [
+        "Une mauvaise interprétation du message",
+        "Une interaction orale trop rapide",
+        "Une absence de couleur obligatoire",
+        "Un feedback automatiquement supprimé"
+      ],
+      "answerIndex": 0,
+      "explanation": "Un visuel peut être rapidement compris, mais la complexité augmente le risque de mauvaise interprétation. Les autres choix ne correspondent pas à la limite vue en cours.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Medium",
+      "tags": [
+        "visuelle",
+        "interpretation"
+      ]
+    },
+    {
+      "question": "Quelle combinaison décrit une communication efficace selon le cours ?",
+      "options": [
+        "Écoute active, empathie, clarté, concision et adaptabilité",
+        "Budget élevé, logo visible, influenceur connu et viralité obligatoire",
+        "Message long, jargon technique, ton identique et absence de feedback",
+        "Canal unique, cible large, message général et publication rare"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le cours met l’accent sur les qualités relationnelles et l’adaptation au public. Les autres choix peuvent nuire à la compréhension ou réduire l’efficacité.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Hard",
+      "tags": [
+        "communication-efficace"
+      ]
+    },
+    {
+      "question": "Dans une situation de conflit, pourquoi l’empathie améliore-t-elle la communication ?",
+      "options": [
+        "Elle aide à comprendre les émotions, perspectives et besoins de l’autre",
+        "Elle permet d’éviter totalement toute discussion",
+        "Elle transforme automatiquement un message en publicité",
+        "Elle remplace la nécessité d’un canal adapté"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’empathie permet de mieux comprendre l’autre et de renforcer la relation. Elle ne supprime pas la discussion ni le besoin de choisir un support adapté.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Hard",
+      "tags": [
+        "empathie",
+        "conflit"
+      ]
+    },
+    {
+      "question": "Quel choix est le plus adapté si une information doit être détaillée, vérifiable et consultable plus tard ?",
+      "options": [
+        "Communication écrite",
+        "Communication uniquement non verbale",
+        "Communication orale improvisée sans note",
+        "Story TikTok sans description"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’écrit est traçable et permet des détails. L’oral et le non verbal peuvent être utiles, mais ils sont moins adaptés à la consultation ultérieure.",
+      "category": "Processus, obstacles et types de communication",
+      "level": "Hard",
+      "tags": [
+        "ecrite",
+        "choix-support"
+      ]
+    },
+    {
+      "question": "Quel est l’objectif global de la méthode AIDA ?",
+      "options": [
+        "Guider le prospect du premier contact jusqu’à l’achat",
+        "Remplacer la segmentation par une phrase créative",
+        "Mesurer uniquement le budget d’une campagne",
+        "Organiser seulement la communication interne"
+      ],
+      "answerIndex": 0,
+      "explanation": "AIDA structure le parcours de persuasion : attention, intérêt, désir, action. Elle ne remplace pas les autres outils de stratégie.",
+      "category": "Méthode AIDA",
+      "level": "Easy",
+      "tags": [
+        "aida"
+      ]
+    },
+    {
+      "question": "Dans AIDA, que signifie le premier A ?",
+      "options": [
+        "Attention",
+        "Analyse",
+        "Audience",
+        "Achat"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le premier A correspond à Attention. Achat peut être lié à l’objectif final, mais ce n’est pas le nom de l’étape.",
+      "category": "Méthode AIDA",
+      "level": "Easy",
+      "tags": [
+        "attention"
+      ]
+    },
+    {
+      "question": "Quel moyen correspond le mieux à l’étape Attention ?",
+      "options": [
+        "Image percutante, couleur attirante ou message surprenant",
+        "Témoignage client détaillé après comparaison",
+        "Bouton de réservation final",
+        "Rapport complet de résultats de campagne"
+      ],
+      "answerIndex": 0,
+      "explanation": "Attention sert à interpeller rapidement. Les preuves sociales appartiennent plutôt au Désir, et le bouton final à l’Action.",
+      "category": "Méthode AIDA",
+      "level": "Medium",
+      "tags": [
+        "attention",
+        "accroche"
+      ]
+    },
+    {
+      "question": "À quelle étape la curiosité est-elle éveillée sans expliquer encore toute l’offre ?",
+      "options": [
+        "Intérêt",
+        "Action",
+        "Budget",
+        "Évaluation"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’étape Intérêt donne envie d’en savoir plus. L’Action pousse à l’achat, tandis que budget et évaluation appartiennent à la planification.",
+      "category": "Méthode AIDA",
+      "level": "Medium",
+      "tags": [
+        "interet"
+      ]
+    },
+    {
+      "question": "Quel levier est particulièrement adapté à l’étape Intérêt ?",
+      "options": [
+        "Storytelling, anecdote et personnalisation selon la cible",
+        "Call-to-action direct et visible uniquement",
+        "Répartition du budget entre supports",
+        "Archivage des résultats après campagne"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’Intérêt repose sur la connaissance de la cible, la personnalisation et le storytelling. Le CTA relève de l’Action.",
+      "category": "Méthode AIDA",
+      "level": "Medium",
+      "tags": [
+        "storytelling",
+        "interet"
+      ]
+    },
+    {
+      "question": "Dans AIDA, quel est le rôle du Désir ?",
+      "options": [
+        "Créer l’envie d’acheter en montrant les bénéfices et les preuves sociales",
+        "Stopper la campagne avant la conversion",
+        "Présenter uniquement le canal choisi",
+        "Informer les collaborateurs sur une réunion"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le Désir transforme l’intérêt en envie grâce aux bénéfices, émotions et preuves sociales. Il ne correspond ni au canal ni à une communication interne.",
+      "category": "Méthode AIDA",
+      "level": "Easy",
+      "tags": [
+        "desir",
+        "benefices"
+      ]
+    },
+    {
+      "question": "Quel exemple correspond le mieux à l’étape Action ?",
+      "options": [
+        "Un bouton clair indiquant Réservez maintenant",
+        "Une histoire de marque qui crée de la curiosité",
+        "Un visuel abstrait sans consigne",
+        "Une étude de cible démographique"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’Action doit réduire le doute et indiquer clairement quoi faire. Le storytelling et la cible interviennent avant la conversion.",
+      "category": "Méthode AIDA",
+      "level": "Medium",
+      "tags": [
+        "action",
+        "cta"
+      ]
+    },
+    {
+      "question": "Une publicité TikTok commence par une couleur très vive, raconte une situation proche de la cible, montre des témoignages, puis affiche un lien d’achat. Quel ordre est respecté ?",
+      "options": [
+        "Attention, Intérêt, Désir, Action",
+        "Intérêt, Action, Attention, Désir",
+        "Désir, Attention, Action, Intérêt",
+        "Action, Désir, Intérêt, Attention"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’accroche visuelle attire l’attention, l’histoire crée l’intérêt, les témoignages nourrissent le désir et le lien final pousse à l’action.",
+      "category": "Méthode AIDA",
+      "level": "Hard",
+      "tags": [
+        "scenario",
+        "ordre-aida"
+      ]
+    },
+    {
+      "question": "Quelle erreur affaiblit le plus l’étape Action ?",
+      "options": [
+        "Un call-to-action peu visible ou ambigu",
+        "Une connaissance fine des besoins de la cible",
+        "Un bénéfice clair pour le prospect",
+        "Une preuve sociale crédible"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’Action demande une consigne claire et visible. Les besoins, bénéfices et preuves sociales aident plutôt les étapes précédentes.",
+      "category": "Méthode AIDA",
+      "level": "Hard",
+      "tags": [
+        "action",
+        "erreur"
+      ]
+    },
+    {
+      "question": "Pourquoi AIDA ne doit-il pas être réduit à un simple slogan ?",
+      "options": [
+        "Parce qu’il organise plusieurs étapes de persuasion, de l’accroche jusqu’au passage à l’action",
+        "Parce qu’il sert uniquement à choisir une police typographique",
+        "Parce qu’il interdit l’utilisation de vidéos et de visuels",
+        "Parce qu’il concerne seulement les salariés de l’entreprise"
+      ],
+      "answerIndex": 0,
+      "explanation": "AIDA est une structure complète de progression persuasive. Un slogan peut attirer l’attention, mais ne couvre pas toutes les étapes.",
+      "category": "Méthode AIDA",
+      "level": "Hard",
+      "tags": [
+        "aida",
+        "synthese"
+      ]
+    },
+    {
+      "question": "La communication interne s’adresse principalement à quel public ?",
+      "options": [
+        "Collaborateurs, salariés et direction",
+        "Clients, prospects et médias",
+        "Influenceurs externes uniquement",
+        "Grand public sans lien avec l’entreprise"
+      ],
+      "answerIndex": 0,
+      "explanation": "La communication interne vise les acteurs de l’entreprise. Les clients, médias et grand public relèvent de la communication externe.",
+      "category": "Communication interne vs externe",
+      "level": "Easy",
+      "tags": [
+        "interne",
+        "public"
+      ]
+    },
+    {
+      "question": "Quel objectif correspond à la communication interne ?",
+      "options": [
+        "Renforcer la culture d’entreprise et l’engagement",
+        "Attirer directement des prospects par publicité payante",
+        "Gérer uniquement les relations presse",
+        "Vendre un produit au grand public"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’interne vise la cohésion, l’engagement, la circulation de l’information et la motivation. La vente directe et les relations presse sont plutôt externes.",
+      "category": "Communication interne vs externe",
+      "level": "Easy",
+      "tags": [
+        "interne",
+        "objectif"
+      ]
+    },
+    {
+      "question": "La communication externe vise surtout à :",
+      "options": [
+        "Promouvoir l’image, attirer les clients et gérer la réputation",
+        "Écrire des notes de service pour les salariés",
+        "Organiser uniquement des réunions d’équipe",
+        "Remplacer toutes les campagnes marketing"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’externe concerne les parties prenantes hors entreprise : clients, médias, partenaires. Les notes de service et réunions sont internes.",
+      "category": "Communication interne vs externe",
+      "level": "Easy",
+      "tags": [
+        "externe",
+        "image"
+      ]
+    },
+    {
+      "question": "Quel support est le plus typique de la communication interne ?",
+      "options": [
+        "Intranet ou newsletter interne",
+        "Campagne publicitaire TV",
+        "Sponsoring d’un événement public",
+        "Packaging en magasin"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’intranet et la newsletter interne servent à informer les collaborateurs. La publicité, le sponsoring et le packaging sont généralement externes.",
+      "category": "Communication interne vs externe",
+      "level": "Medium",
+      "tags": [
+        "supports",
+        "interne"
+      ]
+    },
+    {
+      "question": "Quel support est le plus typique de la communication externe ?",
+      "options": [
+        "Communiqué de presse ou story Instagram de marque",
+        "Note de service confidentielle",
+        "Réunion d’équipe hebdomadaire",
+        "Messagerie interne de projet"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les communiqués de presse et stories publiques visent l’extérieur. Les notes, réunions et messageries internes concernent l’organisation interne.",
+      "category": "Communication interne vs externe",
+      "level": "Medium",
+      "tags": [
+        "supports",
+        "externe"
+      ]
+    },
+    {
+      "question": "Pour le lancement d’une paire New Balance, quel message est interne ?",
+      "options": [
+        "Informer les équipes du lancement et les motiver autour du projet",
+        "Convaincre les clients de commander immédiatement",
+        "Envoyer un communiqué aux médias sportifs",
+        "Publier une vidéo TikTok adressée aux consommateurs"
+      ],
+      "answerIndex": 0,
+      "explanation": "Un message interne informe ou mobilise les employés. Les clients, médias et consommateurs appartiennent à la communication externe.",
+      "category": "Communication interne vs externe",
+      "level": "Hard",
+      "tags": [
+        "cas",
+        "new-balance"
+      ]
+    },
+    {
+      "question": "Quel ton est généralement plus probable en communication externe commerciale ?",
+      "options": [
+        "Marketing et promotionnel",
+        "Strictement administratif et confidentiel",
+        "Uniquement technique pour les développeurs internes",
+        "Toujours informel sans objectif de marque"
+      ],
+      "answerIndex": 0,
+      "explanation": "La communication externe utilise souvent un ton marketing et promotionnel pour servir l’image, la notoriété ou les ventes. L’administratif confidentiel est plutôt interne.",
+      "category": "Communication interne vs externe",
+      "level": "Medium",
+      "tags": [
+        "ton",
+        "externe"
+      ]
+    },
+    {
+      "question": "Quelle affirmation compare correctement communication interne et externe ?",
+      "options": [
+        "L’interne cherche la cohésion des collaborateurs, l’externe cherche la notoriété, l’image ou les ventes",
+        "L’interne et l’externe visent toujours le même public",
+        "L’externe sert uniquement à informer les salariés",
+        "L’interne utilise seulement TikTok et l’externe seulement l’intranet"
+      ],
+      "answerIndex": 0,
+      "explanation": "La différence centrale porte sur le public et les objectifs. Les supports peuvent varier, mais l’intranet reste plutôt interne et TikTok plutôt externe.",
+      "category": "Communication interne vs externe",
+      "level": "Hard",
+      "tags": [
+        "comparaison"
+      ]
+    },
+    {
+      "question": "Quels sont les cinq médias traditionnels cités dans le cours ?",
+      "options": [
+        "TV, radio, presse, affichage, cinéma",
+        "TikTok, Instagram, blog, podcast, SMS",
+        "Intranet, newsletter interne, réunion, note, séminaire",
+        "SEA, display, native ads, Messenger, Telegram"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le cours liste TV, radio, presse, affichage et cinéma. Les autres réponses correspondent à des canaux digitaux ou internes.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Easy",
+      "tags": [
+        "medias-traditionnels"
+      ]
+    },
+    {
+      "question": "Quel élément appartient aux médias sociaux ou digitaux ?",
+      "options": [
+        "E-mailing et newsletters",
+        "Cinéma",
+        "Affichage urbain",
+        "Presse papier"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’e-mailing et les newsletters font partie des supports digitaux. Cinéma, affichage et presse appartiennent aux médias traditionnels.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Easy",
+      "tags": [
+        "digital",
+        "emailing"
+      ]
+    },
+    {
+      "question": "Quel avantage des médias traditionnels ressort dans le cours ?",
+      "options": [
+        "Large audience et crédibilité perçue",
+        "Interaction instantanée avec chaque utilisateur",
+        "Création ouverte par tout le public",
+        "Coût de production toujours faible"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les médias traditionnels peuvent apporter large audience, autorité et crédibilité. L’interaction immédiate et la création ouverte caractérisent davantage les médias sociaux.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Medium",
+      "tags": [
+        "traditionnel",
+        "audience"
+      ]
+    },
+    {
+      "question": "Quel avantage des médias sociaux est mis en avant ?",
+      "options": [
+        "Engagement instantané et interaction active du public",
+        "Contrôle total du contenu par une rédaction fermée",
+        "Horaires de diffusion fixes uniquement",
+        "Absence de risque de désinformation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les médias sociaux favorisent l’interaction et l’engagement immédiat. Ils comportent aussi des risques de désinformation et de contrôle plus difficile.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Medium",
+      "tags": [
+        "medias-sociaux",
+        "interaction"
+      ]
+    },
+    {
+      "question": "Pour toucher les 18-25 ans avec un message personnalisé et interactif, quel choix est le plus cohérent ?",
+      "options": [
+        "TikTok, Instagram ou autres réseaux sociaux adaptés à la cible",
+        "Cinéma uniquement sans relais digital",
+        "Note de service interne",
+        "Presse papier généraliste seulement"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les réseaux sociaux sont adaptés à un public jeune, à l’interaction et à la personnalisation. Les autres canaux peuvent compléter, mais sont moins cohérents seuls.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Hard",
+      "tags": [
+        "cible",
+        "18-25"
+      ]
+    },
+    {
+      "question": "Pour une notoriété très large mais peu ciblée géographiquement, quel canal peut être pertinent ?",
+      "options": [
+        "Télévision nationale",
+        "Message WhatsApp à dix clients",
+        "Newsletter interne",
+        "Empathy map"
+      ],
+      "answerIndex": 0,
+      "explanation": "La TV peut toucher un large public. WhatsApp et newsletters sont plus limités, et l’empathy map est un outil d’analyse, pas un canal de diffusion.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Medium",
+      "tags": [
+        "notoriete",
+        "tv"
+      ]
+    },
+    {
+      "question": "Quelle limite est plus associée aux médias sociaux qu’aux médias traditionnels ?",
+      "options": [
+        "Risque de désinformation et contenu moins contrôlé",
+        "Coût de production systématiquement très élevé",
+        "Aucune interaction possible avec le public",
+        "Diffusion uniquement à horaires fixes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Les médias sociaux ouvrent la production et la circulation des contenus, ce qui peut créer un risque de désinformation. Les coûts et horaires fixes sont plus proches des médias traditionnels.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Hard",
+      "tags": [
+        "desinformation",
+        "controle"
+      ]
+    },
+    {
+      "question": "Quel choix de canal correspond le mieux à une promotion locale ou un événement spécifique ?",
+      "options": [
+        "Affichage local complété par réseaux sociaux géolocalisés",
+        "Télévision internationale sans ciblage",
+        "Intranet réservé aux salariés",
+        "Rapport d’évaluation final uniquement"
+      ],
+      "answerIndex": 0,
+      "explanation": "Une promotion locale demande un canal proche du lieu et éventuellement un ciblage digital local. Une diffusion internationale serait trop large.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Hard",
+      "tags": [
+        "promotion-locale",
+        "geolocalisation"
+      ]
+    },
+    {
+      "question": "Quelle affirmation oppose correctement les flux d’information ?",
+      "options": [
+        "Les médias traditionnels fonctionnent souvent en flux unidirectionnel, les médias sociaux en échanges bidirectionnels",
+        "Les médias sociaux empêchent toute réponse du public",
+        "Les médias traditionnels garantissent toujours la personnalisation individuelle",
+        "Les deux types de médias ont exactement le même niveau d’interaction"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le cours oppose la communication plus descendante des médias traditionnels aux échanges plus interactifs des médias sociaux.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Hard",
+      "tags": [
+        "flux",
+        "comparaison"
+      ]
+    },
+    {
+      "question": "Dans une stratégie de lancement, pourquoi combiner canaux traditionnels et digitaux ?",
+      "options": [
+        "Pour profiter à la fois de la portée/crédibilité et de l’interaction/personnalisation",
+        "Pour supprimer la nécessité de définir une cible",
+        "Pour éviter tout budget et toute évaluation",
+        "Pour rendre le message volontairement contradictoire selon les supports"
+      ],
+      "answerIndex": 0,
+      "explanation": "La combinaison peut renforcer la portée et l’engagement. Elle ne remplace pas la cible, le budget ou la cohérence du message.",
+      "category": "Canaux traditionnels et digitaux",
+      "level": "Hard",
+      "tags": [
+        "strategie",
+        "mix-media"
+      ]
+    },
+    {
+      "question": "Que signifie la segmentation dans le cours ?",
+      "options": [
+        "Diviser la population en sous-groupes homogènes",
+        "Créer un slogan de marque",
+        "Choisir uniquement le budget média",
+        "Publier le même message partout"
+      ],
+      "answerIndex": 0,
+      "explanation": "La segmentation consiste à distinguer des groupes selon des critères communs. Elle précède souvent le choix de cible et de message.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Easy",
+      "tags": [
+        "segmentation"
+      ]
+    },
+    {
+      "question": "Quel critère appartient à la segmentation démographique ?",
+      "options": [
+        "Âge, sexe ou revenus",
+        "Ville, pays ou climat",
+        "Valeurs et style de vie",
+        "Habitudes d’achat et fidélité"
+      ],
+      "answerIndex": 0,
+      "explanation": "La démographie concerne âge, sexe et revenus. Les autres réponses correspondent aux critères géographiques, psychographiques ou comportementaux.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Easy",
+      "tags": [
+        "demographique"
+      ]
+    },
+    {
+      "question": "Quel exemple relève de la segmentation psychographique ?",
+      "options": [
+        "Valeurs, style de vie et centres d’intérêt",
+        "Pays et climat",
+        "Fréquence d’achat et fidélité",
+        "Âge et revenus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le psychographique décrit motivations, valeurs et styles de vie. Le lieu, l’âge et l’usage appartiennent à d’autres familles de segmentation.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Medium",
+      "tags": [
+        "psychographique"
+      ]
+    },
+    {
+      "question": "Qu’est-ce qu’un persona ?",
+      "options": [
+        "Une représentation semi-fictive d’un groupe cible avec des problématiques communes",
+        "Un client réel choisi au hasard",
+        "Un tableau de budget média",
+        "Un canal de diffusion payant"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le persona incarne le cœur de cible à partir de caractéristiques communes. Il n’est pas un individu réel isolé ni un support média.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Easy",
+      "tags": [
+        "persona"
+      ]
+    },
+    {
+      "question": "Quel élément est pertinent dans un persona complet ?",
+      "options": [
+        "Nom, âge, situation, habitudes, besoins et motivations",
+        "Uniquement le logo de la marque",
+        "Seulement le montant du budget",
+        "La liste exhaustive de tous les concurrents"
+      ],
+      "answerIndex": 0,
+      "explanation": "Un persona décrit un profil cible de manière concrète. Le logo, le budget et la concurrence peuvent être utiles ailleurs, mais ne suffisent pas pour un persona.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Medium",
+      "tags": [
+        "persona",
+        "profil"
+      ]
+    },
+    {
+      "question": "À quoi sert une empathy map ?",
+      "options": [
+        "Explorer ce que le persona pense, ressent, voit, entend, dit et fait",
+        "Calculer uniquement le coût d’une campagne",
+        "Remplacer l’objectif SMART",
+        "Diffuser un communiqué de presse"
+      ],
+      "answerIndex": 0,
+      "explanation": "L’empathy map aide à comprendre l’expérience du persona. Elle n’est pas un outil de diffusion ni de calcul budgétaire.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Medium",
+      "tags": [
+        "empathy-map"
+      ]
+    },
+    {
+      "question": "Une marque éthique veut parler à des étudiants sensibles à l’écologie mais au budget limité. Quelle analyse est la plus complète ?",
+      "options": [
+        "Une cible segmentée par âge, valeurs et comportement d’achat",
+        "Un public général sans différence entre clients",
+        "Un choix de canal avant toute définition de cible",
+        "Un message uniquement centré sur l’entreprise"
+      ],
+      "answerIndex": 0,
+      "explanation": "La cible combine critères démographiques, psychographiques et comportementaux. Une stratégie efficace évite de parler à tout le monde de la même façon.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Hard",
+      "tags": [
+        "ethikwear",
+        "cible"
+      ]
+    },
+    {
+      "question": "Pourquoi la cible doit-elle être définie avant le message clé ?",
+      "options": [
+        "Parce que le message doit s’adapter aux besoins, attentes et références du public",
+        "Parce que le message est toujours identique quelle que soit la cible",
+        "Parce que la cible sert uniquement après l’évaluation",
+        "Parce que la segmentation interdit la créativité"
+      ],
+      "answerIndex": 0,
+      "explanation": "La cible guide le ton, les arguments et les supports. Sans cible claire, le message risque d’être trop général ou mal interprété.",
+      "category": "Cible, segmentation, persona et empathy map",
+      "level": "Hard",
+      "tags": [
+        "message",
+        "strategie"
+      ]
+    },
+    {
+      "question": "Dans la méthode SMART, que signifie M ?",
+      "options": [
+        "Mesurable",
+        "Marketing",
+        "Motivant",
+        "Médiatique"
+      ],
+      "answerIndex": 0,
+      "explanation": "M signifie Mesurable : l’objectif doit pouvoir être suivi par des indicateurs. Les autres mots peuvent être utiles, mais ne sont pas le critère SMART.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Easy",
+      "tags": [
+        "smart"
+      ]
+    },
+    {
+      "question": "Quel objectif est le plus SMART ?",
+      "options": [
+        "Augmenter le taux d’engagement Instagram de 15 % en trois mois auprès des 18-24 ans",
+        "Être une meilleure marque un jour",
+        "Faire une campagne intéressante sans indicateur",
+        "Communiquer davantage dès que possible"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cet objectif est spécifique, mesurable, lié à une cible et limité dans le temps. Les autres formulations sont vagues ou non mesurables.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Hard",
+      "tags": [
+        "objectif-smart"
+      ]
+    },
+    {
+      "question": "Quelle différence entre stratégie et tactique est correcte ?",
+      "options": [
+        "La stratégie fixe le cap long terme, la tactique correspond à des actions concrètes mesurables",
+        "La stratégie est une story Instagram, la tactique est l’identité de marque",
+        "La stratégie ne concerne que le budget, la tactique ne concerne que la cible",
+        "Les deux mots signifient exactement la même chose"
+      ],
+      "answerIndex": 0,
+      "explanation": "La stratégie donne la direction générale, tandis que la tactique met en œuvre des actions précises. Les autres choix confondent les niveaux.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Medium",
+      "tags": [
+        "strategie",
+        "tactique"
+      ]
+    },
+    {
+      "question": "Dans le modèle PESO, que désigne Paid Media ?",
+      "options": [
+        "Les supports payants comme publicité et parrainage",
+        "Les supports contrôlés comme le site web et les blogs",
+        "La visibilité gratuite via presse et influenceurs",
+        "L’engagement social au sein des communautés"
+      ],
+      "answerIndex": 0,
+      "explanation": "Paid Media correspond aux supports payants. Owned Media est contrôlé par la marque, Earned Media est obtenu gratuitement, Shared Media repose sur les communautés.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Medium",
+      "tags": [
+        "peso",
+        "paid"
+      ]
+    },
+    {
+      "question": "Dans le modèle PESO, quel exemple correspond à Owned Media ?",
+      "options": [
+        "Site web ou blog contrôlé par la marque",
+        "Article de presse obtenu sans achat média",
+        "Publicité display payante",
+        "Conversation spontanée dans une communauté"
+      ],
+      "answerIndex": 0,
+      "explanation": "Owned Media regroupe les supports possédés et contrôlés par la marque. Presse, publicité et communauté relèvent d’autres catégories PESO.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Medium",
+      "tags": [
+        "peso",
+        "owned"
+      ]
+    },
+    {
+      "question": "Quel ordre respecte les grandes étapes d’une campagne de communication ?",
+      "options": [
+        "Objectifs SMART, cible, message clé, canaux, plan média, budget, évaluation",
+        "Budget, évaluation, message clé, cible, objectifs, canaux, hasard",
+        "Canaux, publication, cible, objectifs, oubli des KPI",
+        "Persona, résultat final, budget ignoré, absence de message"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le cours propose de commencer par les objectifs et la cible, puis construire message, canaux, calendrier, budget et évaluation.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Hard",
+      "tags": [
+        "campagne",
+        "etapes"
+      ]
+    },
+    {
+      "question": "Quel KPI est adapté pour évaluer l’engagement d’une campagne digitale ?",
+      "options": [
+        "Taux d’engagement",
+        "Couleur principale du logo",
+        "Nom du persona uniquement",
+        "Nombre de réunions internes sans lien"
+      ],
+      "answerIndex": 0,
+      "explanation": "Le taux d’engagement mesure les réactions et interactions. Les autres éléments peuvent exister, mais ne mesurent pas directement la performance digitale.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Easy",
+      "tags": [
+        "kpi",
+        "engagement"
+      ]
+    },
+    {
+      "question": "Pourquoi le calendrier éditorial est-il utile dans une stratégie de communication ?",
+      "options": [
+        "Il permet de planifier les contenus, les dates et les supports de publication",
+        "Il remplace entièrement l’analyse de cible",
+        "Il garantit automatiquement des ventes sans KPI",
+        "Il sert uniquement à créer des logos"
+      ],
+      "answerIndex": 0,
+      "explanation": "Un calendrier éditorial organise la diffusion des contenus dans le temps. Il ne remplace ni la stratégie, ni l’évaluation, ni la création graphique.",
+      "category": "SMART, stratégie, tactique, PESO et campagnes",
+      "level": "Hard",
+      "tags": [
+        "calendrier-editorial",
+        "planification"
+      ]
+    }
+  ]
+}
