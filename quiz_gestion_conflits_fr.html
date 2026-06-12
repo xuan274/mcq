@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Gestion des conflits</title>
+  <link rel="stylesheet" href="layoutquiz.css" />
+  <style>
+    #themeToggle {
+      position: fixed; bottom: 20px; right: 20px; z-index: 2000;
+      padding: 10px 18px; border: none; border-radius: 12px; cursor: pointer;
+      font-weight: 700; font-size: 14px;
+      background: rgba(255,255,255,0.12); color: var(--text);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(207,224,255,0.2);
+      transition: .2s ease;
+    }
+    #themeToggle:hover { background: rgba(255,255,255,0.2); }
+    body.light-mode {
+      --bg: #f0f4ff; --bg2: #e8eeff; --card: #ffffff; --text: #14213a;
+      --muted: #4a5a80; --primary: #2563eb; --primary2: #1d4ed8;
+      --border: #c5d5f5; --shadow: 0 14px 40px rgba(0,0,0,.10);
+    }
+    body.light-mode {
+      background: linear-gradient(180deg, #eef2ff, #e0e8ff 70%, #d5e0ff);
+    }
+    body.light-mode .panel,
+    body.light-mode .result-card { color: #14213a; }
+    body.light-mode .topbar {
+      background: rgba(240,244,255,0.88);
+      border-bottom-color: rgba(59,130,246,0.18);
+    }
+  </style>
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="btn btn-back" href="index.html">Retour à l'index</a>
+      <div class="top-info">
+        <div class="stats-row">
+          <div class="stat">Score : <span id="scoreText">0</span></div>
+          <div class="stat">
+            Répondu : <span id="answeredText">0</span>/<span id="totalText">---</span>
+          </div>
+        </div>
+        <div class="progress-wrap" aria-label="Barre de progression">
+          <div class="progress-bar" id="progressBar"></div>
+        </div>
+      </div>
+      <div class="stat" style="justify-self:end;">
+        Statut du quiz : <span id="statusText">En cours</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1 id="heroTitle">Quiz Gestion des conflits</h1>
+      <p class="subtitle" id="heroSubtitle"></p>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Zone du quiz</h2>
+        <p>Sélectionner une réponse pour chaque question. Chaque question se verrouille après le choix et affiche un retour immédiat.</p>
+      </div>
+      <div class="quiz-area" id="quizArea"></div>
+      <div class="actions">
+        <button class="btn btn-submit" id="submitBtn">Valider et voir les résultats</button>
+      </div>
+    </section>
+
+    <section class="results" id="resultsSection"></section>
+    <div class="footer-space"></div>
+  </main>
+
+  <button id="themeToggle" onclick="toggleTheme()">Mode clair</button>
+
+  <script>
+    window.QUIZ_DATA_FILE = "quiz_gestion_conflits_fr.json";
+    function toggleTheme() {
+      const body = document.body;
+      const btn = document.getElementById('themeToggle');
+      body.classList.toggle('light-mode');
+      btn.textContent = body.classList.contains('light-mode') ? 'Mode sombre' : 'Mode clair';
+    }
+  </script>
+  <script src="quiz.js"></script>
+</body>
+</html>
